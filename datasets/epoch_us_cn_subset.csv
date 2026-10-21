@@ -1,0 +1,644 @@
+Model,Organization,Publication date,Country,Training_compute_FLOP,Frontier_model,Open_weights,Domain
+Theseus,Bell Laboratories,1950-07-02,US,40.0,True,,Robotics
+Pandemonium (morse),Massachusetts Institute of Technology (MIT),1959-02-01,US,600000000.0,True,,Language
+Samuel Neural Checkers,IBM,1959-07-01,US,428400000.0,True,,Games
+Perceptron (1960),Cornell Aeronautical Laboratory,1960-03-30,US,720000000.0,True,,Vision
+ADALINE,Stanford University,1960-06-30,US,6600.0,True,,Vision
+Linear Decision Functions,Bell Laboratories,1962-06-01,US,1559250.0,True,,Mathematics
+Print Recognition Logic,IBM,1963-01-01,US,22500000.0,True,,Vision
+Heuristic Reinforcement Learning,Purdue University,1965-10-01,US,1080000.0,,,Robotics
+LTE speaker verification system,IBM,1966-11-01,US,105917060.0,True,,Speech
+ASE+ACE,University of Massachusetts Amherst,1983-09-01,US,324000000.0,True,,Robotics
+Distributed representation NN,Carnegie Mellon University (CMU),1986-08-15,US,388800000.0,True,,Other
+NetTalk (transcription),Princeton University,1987-06-06,US,28328002560.0,True,,Speech
+NetTalk (dictionary),Princeton University,1987-06-06,US,27664065000.0,True,,Speech
+Translation-invariant MLP,Carnegie Mellon University (CMU),1987-06-15,US,18032947200.0,True,,
+Speaker-independent vowel classification,University of Washington,1989-11-27,US,7485696000.0,,,Speech
+Handwritten digit recognition network,AT&T,1989-11-27,US,181440000000.0,True,,Vision
+ALVINN,Carnegie Mellon University (CMU),1989-12-01,US,10548576000.0,,,Driving
+NETtalk reimplementation,Oregon State University,1990-06-01,US,35811936000.0,True,,Speech
+TD-Gammon,IBM,1992-05-01,US,18232157622832.703,True,,Games
+Cancer drug mechanism prediction,National Cancer Institute,1992-10-16,US,53460000.0,,,Medicine
+Siamese-TDNN,Bell Laboratories,1993-08-01,US,12869570138112.0,True,,Vision
+LISSOM,University of Texas at Austin,1995-11-27,US,195544800000.0,,,Vision
+System 11,Carnegie Mellon University (CMU),1996-06-18,US,25859616000.0,,,Vision
+LeNet-5,AT&T,1998-11-01,US,2810937600000.0,True,,Vision
+Invariant CNN,New York University (NYU),2004-06-27,US,974230000000.0,,,Vision
+Hybrid CNN/SVM Object Categorizer,Courant Institute of Mathematical Sciences,2006-06-17,US,97977600000000.0,,No,Vision
+SVM-CNN,New York University (NYU),2006-06-17,US,745200000000000.0,True,No,Vision
+Sparse Vision Encoding,Stanford University,2006-11-01,US,9604800000000.0,,No,Vision
+SB-LM,Google,2007-06-22,US,1.4494464e+18,True,,Language
+KN-LM,Google,2007-06-22,US,7.7303808e+17,True,,Language
+Long-Range Autonomous Off-Road Driving System,Courant Institute of Mathematical Sciences,2009-01-08,US,278721000000000.0,,No,"Vision,Robotics,Driving"
+GPU DBNs,Stanford University,2009-06-15,US,1000000000000000.0,,,Other
+Conditional Maximum Entropy Model (Gigaworld),Google,2009-07-01,US,1.0000000001e+18,,No,Language
+ConvNet Processor,Courant Institute of Mathematical Sciences,2009-08-31,US,306000000000000.0,,No,Vision
+Two Stage Feature Extraction (MNIST),New York University (NYU),2009-09-01,US,20754000000000.0,,No,Vision
+iCCCP,Massachusetts Institute of Technology (MIT),2010-06-13,US,1080000000000000.0,,No,Vision
+RNN LM,Johns Hopkins University,2010-09-26,US,5.396e+16,True,,Language
+Unsupervised High-level Feature Learner,Google,2012-07-12,US,6e+17,True,,Vision
+DistBelief Speech,Google,2012-12-03,US,3.114e+17,,,Speech
+DistBelief NNLM,Google,2013-01-16,US,2.612736e+18,True,,Language
+Hierarchical Scene Labeling (Stanford Background),New York University (NYU),2013-08-01,US,2.3774688e+17,,No,Vision
+RNTN,Stanford University,2013-10-01,US,1.422e+16,,No,Language
+Word2Vec (large),Google,2013-10-16,US,3.888e+16,,,Language
+Visualizing CNNs,New York University (NYU),2013-11-12,US,5.32e+17,True,,Vision
+ACF-WIDER,Chinese Academy of Sciences,2014-07-15,CN,76380000000000.0,,No,Vision
+Seq2Seq LSTM,Google,2014-09-10,US,5.6e+19,True,,Language
+SNM-skip,Google,2014-12-03,US,2.97600000001e+20,True,,Language
+"MSRA (C, PReLU)",Microsoft Research,2015-02-06,US,2.397403008e+19,True,,Vision
+TC-DNN-BLSTM-DNN,Carnegie Mellon University (CMU),2015-04-06,US,1.9410191999999997e+17,,No,Speech
+Search-Proven Best LSTM,Google,2015-07-06,US,3340000000000000.0,,No,Language
+DeepSpeech2 (English),Baidu Research - Silicon Valley AI Lab,2015-12-08,US,2.6e+19,True,,Speech
+ResNet-152 (ImageNet),Microsoft,2015-12-10,US,1.041408e+19,,,Vision
+ResNet-101 (ImageNet),Microsoft,2015-12-10,US,7.004e+18,,Yes,Vision
+BIG LSTM+CNN INPUTS,Google Brain,2016-02-11,US,1.0220883e+20,True,,Language
+10 LSTMS + KN-5 (OPTIMAL WEIGHTS),Google Brain,2016-02-11,US,8.7892439e+19,,,Language
+Named Entity Recognition model,Carnegie Mellon University (CMU),2016-03-04,US,9.69408e+16,,,Language
+Part-of-sentence tagging model,Carnegie Mellon University (CMU),2016-05-29,US,1.454112e+17,,,Language
+Attend-Infer-Repeat,Google DeepMind,2016-08-12,US,6.448896e+16,,,Vision
+ResNet-200,Microsoft Research Asia,2016-09-17,CN,2.9741645e+19,,No,Vision
+Knowledge distillation student model,Harvard University,2016-09-22,US,1.008e+17,,,Language
+GNMT,Google,2016-09-26,US,6.620000000001e+21,True,No,Language
+Zoneout + Variational LSTM (PTB),MetaMind Inc,2016-09-26,US,7100000000000000.0,,No,Language
+Pointer Sentinel-LSTM (WT2),MetaMind Inc,2016-09-26,US,1600000000000000.0,,No,Language
+Xception,Google,2016-10-07,US,4.36e+20,True,,Vision
+NASv3 (CIFAR-10),Google Brain,2016-11-05,US,2.2e+21,True,,Vision
+NAS with base 8 and shared embeddings,Google Brain,2016-11-05,US,1.05e+16,,No,Language
+HR-ResNet101,Carnegie Mellon University (CMU),2016-12-13,US,7.077e+18,,Yes,Vision
+ConvS2S (ensemble of 8 models),Meta AI,2017-07-25,US,5.64e+19,,,Language
+AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (WT2),Salesforce Research,2017-08-07,US,2.97e+17,,No,Language
+AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (PTB),Salesforce Research,2017-08-07,US,1e+17,,No,Language
+OpenAI TI7 DOTA 1v1,OpenAI,2017-08-11,US,6.046095222592002e+20,True,,Games
+Libratus,Carnegie Mellon University (CMU),2017-08-19,US,5.51e+20,,No,Games
+"AWD-LSTM-MoS + dynamic evaluation (WT2, 2017)",Carnegie Mellon University (CMU),2017-11-10,US,3.36e+18,,No,Language
+RNNLM + Dynamic KL Regularization,Northwestern University,2018-01-01,US,502900000000000.0,,No,Language
+QRNN,Salesforce Research,2018-02-01,US,6.8866472e+17,,No,Language
+AmoebaNet-A (F=448),Google Brain,2018-02-05,US,3.85296912e+20,,No,Vision
+4 layer QRNN (h=2500),Salesforce Research,2018-03-22,US,5.9158815e+17,,No,Language
+YOLOv3,University of Washington,2018-04-08,US,1.3416380824e+19,,No,Vision
+RNMT+,Google AI,2018-04-26,US,1.83e+19,,No,Language
+RNNLM + Dynamic KL Regularization (WT2),Northwestern University,2018-04-27,US,2.1024e+16,,No,Language
+DNCON2,University of Missouri,2018-05-01,US,9.5e+16,,Yes,Biology
+ResNeXt-101 32x48d,Facebook,2018-05-02,US,8.74395e+21,True,Yes,Vision
+GPT-1,OpenAI,2018-06-01,US,1.7578125e+19,,Yes,Language
+Big-Little Net,IBM,2018-07-10,US,2.46048e+17,,Yes,Vision
+Big-Little Net (vision),IBM,2018-07-10,US,6.2988288e+19,,Yes,Vision
+Big-Little Net (speech),IBM,2018-07-10,US,4.290048e+17,,Yes,Speech
+Dexterous In-Hand Manipulation [control policy],OpenAI,2018-08-01,US,2.16e+20,,No,Robotics
+AWD-LSTM-MoS+PDR + dynamic evaluation (PTB),IBM,2018-08-14,US,4.07e+17,,No,Language
+BERT-Large,Google,2018-10-11,US,2.85e+20,,Yes,Language
+Mesh-TensorFlow Transformer 4.9B (language),Google Brain,2018-11-05,US,1.617408e+20,,No,Language
+Mesh-TensorFlow Transformer 2.9B (translation),Google Brain,2018-11-05,US,6.84288e+19,,No,Language
+StyleGAN,Nvidia,2018-12-12,US,3.93e+16,,Yes,Image generation
+GPT-2 (1.5B),OpenAI,2019-02-14,US,1.920000000001e+21,,Yes,Language
+GPT-2 (124M),OpenAI,2019-02-14,US,7.936e+20,,Yes,Language
+GPT-2 (774M),OpenAI,2019-02-14,US,4.9536e+21,True,Yes,Language
+GPT-2 (355M),OpenAI,2019-02-14,US,2.272000000071e+21,True,Yes,Language
+SSA,Massachusetts Institute of Technology (MIT),2019-02-22,US,1.296e+19,,,Biology
+ProxylessNAS,Massachusetts Institute of Technology (MIT),2019-02-23,US,3.723192e+18,,Yes,Vision
+KataGo,Jane Street,2019-02-27,US,2.32e+19,,Yes,Games
+UniRep,Harvard University,2019-03-26,US,2.2e+19,,Yes,Biology
+SciBERT,Allen Institute for AI,2019-03-26,US,8.926848e+19,,Yes,Language
+WeNet (PTB),Amazon,2019-04-08,US,3.530047365121324e+18,,No,Language
+WeNet (Penn Treebank),Amazon,2019-04-08,US,7.30000001e+17,,No,Language
+MEGNet (molecule model),University of California San Diego,2019-04-10,US,4.536e+17,,,Materials science
+MEGNet (crystal formation energy model),University of California San Diego,2019-04-10,US,4.536e+17,,,Materials science
+MEGNet (crystal band gap model),University of California San Diego,2019-04-10,US,4.536e+17,,,Materials science
+MEGNet (crystal elasticity model),University of California San Diego,2019-04-10,US,4.536e+17,,,Materials science
+BERT-Large-CAS (PTB+WT2+WT103),Amazon,2019-04-20,US,1.5405e+20,,No,Language
+Sparse Transformer (Enwik8),OpenAI,2019-04-23,US,4.104e+18,,No,Language
+Sparse Transformer (ImageNet),OpenAI,2019-04-23,US,1.45152e+21,,No,Image generation
+MuseNet,OpenAI,2019-04-25,US,2.208301056e+20,,No,Audio
+Grover-Mega,University of Washington,2019-05-29,US,4.6386183e+21,True,Yes,Language
+MnasNet-A3,Google,2019-05-29,US,1.5e+21,,Yes,Vision
+MnasNet-A1 + SSDLite,Google,2019-05-29,US,1.5e+21,,Yes,Vision
+DLRM-2020,Facebook AI,2019-05-31,US,4e+18,,No,Recommendation
+AWD-LSTM + MoS + Partial Shuffled,University of Texas at Austin,2019-06-10,US,3.15e+17,,Yes,Language
+ResNet-152 + ObjectNet,Massachusetts Institute of Technology (MIT),2019-09-06,US,1.94e+19,,No,Vision
+Megatron-BERT,Nvidia,2019-09-17,US,2.2e+22,True,No,Language
+Megatron-LM (8.3B),Nvidia,2019-09-17,US,9.1e+21,True,No,Language
+Hide and Seek,OpenAI,2019-09-17,US,1.15e+18,,No,Games
+Megatron-LM (2.5B),Nvidia,2019-09-17,US,2.359e+21,,No,Language
+Megatron-LM (355M),Nvidia,2019-09-17,US,3.35e+20,,Yes,Language
+Megatron-LM (1.2B),Nvidia,2019-09-17,US,1.1304e+21,,No,Language
+DistilBERT,Hugging Face,2019-10-02,US,1.24416e+19,,Yes,Language
+Rubik's cube ADR robot,OpenAI,2019-10-15,US,8.54e+20,,No,Robotics
+T5-3B,Google,2019-10-23,US,9.0000000001e+21,True,Yes,Language
+T5-11B,Google,2019-10-23,US,3.3e+22,True,Yes,Language
+XLM-RoBERTa,Facebook AI,2019-11-05,US,2.076e+22,True,Yes,Language
+OpenAI Five,OpenAI,2019-12-13,US,6.7e+22,True,No,Games
+OpenAI Five Rerun,OpenAI,2019-12-13,US,1.3e+22,,No,Games
+ContextNet + Noisy Student,Google,2020-01-19,US,8.16e+21,,No,Speech
+Meena,Google Brain,2020-01-28,US,1.12e+23,True,No,Language
+Turing-NLG,Microsoft,2020-02-13,US,1.57e+22,,No,Language
+FFN SwiGLU,Google,2020-02-14,US,3.3687317e+19,,No,Language
+Tensor-Transformer(1core)+PN (WT103),University of California (UC) Berkeley,2020-03-17,US,1.58e+18,,Yes,Language
+MetNet,Google,2020-03-24,US,9.510912e+18,,No,Earth science
+Cube-Space AutoEncoder,MIT-IBM Watson AI Lab,2020-04-27,US,1.0660896e+17,,,"Vision,Search"
+rTop-k(distributed setting),Stanford University,2020-05-21,US,1.4352996e+16,,No,Language
+DETR,Facebook,2020-05-26,US,4e+20,,Yes,Vision
+GPT-3 175B (davinci),OpenAI,2020-05-28,US,3.14e+23,True,No,Language
+iGPT-XL,OpenAI,2020-06-17,US,3.3e+22,True,Yes,"Vision,Image generation"
+iGPT-L,OpenAI,2020-06-17,US,8.91e+21,,Yes,"Image generation,Vision"
+GPT-3 6.7B,OpenAI,2020-06-22,US,1.2e+22,,,Language
+GPT-3 XL,OpenAI,2020-06-22,US,2.38e+21,,,Language
+GPT-3 Small,OpenAI,2020-06-22,US,2.25e+20,,,Language
+GPT-3 Medium,OpenAI,2020-06-22,US,6.41e+20,,,Language
+GPT-3 Large,OpenAI,2020-06-22,US,1.37e+21,,,Language
+GPT-3 2.7B,OpenAI,2020-06-22,US,4.77e+21,,,Language
+GPT-3 13B,OpenAI,2020-06-22,US,2.31e+22,,,Language
+GShard (dense),Google,2020-06-30,US,4.765e+22,True,No,Language
+GShard (600B),Google,2020-06-30,US,1.33e+22,,No,Language
+DLRM-2021,Meta AI,2020-07-01,US,3e+20,,No,Recommendation
+mBART-50,Facebook AI,2020-08-02,US,1.45152e+22,,Yes,Language
+ERNIE-GEN (large),Baidu,2020-08-06,CN,2e+20,,Yes,Language
+wave2vec 2.0 LARGE,Facebook,2020-10-22,US,3.87072e+21,,Yes,Speech
+ERNIE-Doc (247M),Baidu,2020-12-31,CN,3.0302798e+19,,Yes,Language
+"ERNIE-Doc Base (151M, WT103)",Baidu,2020-12-31,CN,1.7395e+18,,Yes,Language
+DALL-E,OpenAI,2021-01-05,US,4.7e+22,,No,Image generation
+CLIP (ViT L/14@336px),OpenAI,2021-01-05,US,1.05e+22,,Yes,"Multimodal,Vision,Language,Video"
+Transformer-XL + AutoDropout (PTB),Google Research,2021-01-05,US,5.7829941034035304e+16,,No,Language
+NVAE (CIFAR 10),Nvidia,2021-01-08,US,5.94e+19,,No,Image generation
+NVAE (FFHQ),Nvidia,2021-01-08,US,5.184e+20,,No,Image generation
+NVAE (Celeba HQ),Nvidia,2021-01-08,US,3.0456e+20,,No,Image generation
+Switch,Google,2021-01-11,US,8.22e+22,True,Yes,Language
+Wu Dao - Wen Yuan,Beijing Academy of Artificial Intelligence / BAAI,2021-01-11,CN,6.5028096e+20,,No,Language
+SRU++ Large,ASAPP,2021-02-24,US,2.1173704e+19,,Yes,Language
+SRU++ Base,ASAPP,2021-02-24,US,2.592e+19,,No,Language
+SRU++ Large only 2 attention layers (k=5) (WT103),ASAPP,2021-02-24,US,3.564e+19,,No,Language
+Wu Dao - Wen Hui,Beijing Academy of Artificial Intelligence / BAAI,2021-03-01,CN,1.161216e+20,,,"Language,Multimodal,Video,Image generation"
+Wu Dao - Wen Lan,Beijing Academy of Artificial Intelligence / BAAI,2021-03-01,CN,7.1995392e+21,,,"Multimodal,Vision,Language"
+M6-T,Alibaba,2021-03-05,CN,5.5e+21,,No,"Multimodal,Language,Vision"
+Very Deep VAEs (ImageNet-64),OpenAI,2021-03-16,US,1.8144e+21,,Yes,Image generation
+GPT-Neo-2.7B,EleutherAI,2021-03-21,US,7.9e+21,,Yes,Language
+Transformer-C,University of Massachusetts Amherst,2021-04-08,US,1.8877734e+18,,No,Language
+PLUG,Alibaba,2021-04-19,CN,3.5997696e+22,,No,Language
+DiffQ Transformer (16L),Meta AI,2021-04-20,US,3.02e+19,,No,Language
+PanGu-α,Huawei Noah's Ark Lab,2021-04-25,CN,5.112e+22,,No,Language
+ADM,OpenAI,2021-05-11,US,6.2e+21,,Yes,Image generation
+Wu Dao 2.0,Beijing Academy of Artificial Intelligence / BAAI,2021-05-31,CN,1.54350000000001e+24,True,No,"Multimodal,Language,Vision,Image generation"
+GPT2-Large+LHOPT,OpenAI,2021-06-02,US,4.9540697e+21,,No,Language
+DeBERTa,Microsoft,2021-06-10,US,2.588e+22,,Yes,Language
+ALIGN,Google Research,2021-06-11,US,2.598670000001e+22,,No,"Multimodal,Vision,Language"
+Denoising Diffusion Probabilistic Models (LSUN Bedroom),University of California (UC) Berkeley,2021-06-11,US,7.840125000000001e+19,,Yes,Vision
+ERNIE 3.0,Baidu,2021-07-05,CN,2.25e+22,,Yes,Language
+Codex,OpenAI,2021-07-07,US,7.344e+22,,No,Language
+YOLOX-X,Megvii Inc,2021-08-06,CN,6.34275e+20,,Yes,Vision
+"GPT-2 (1.5B, Curriculum Learning 45K)",Microsoft,2021-08-13,US,2.3811e+21,,No,Language
+"GPT-2 (117M, SLW 110K)",Microsoft,2021-08-13,US,1.10214e+20,,No,Language
+DNABERT,Northeastern University,2021-08-15,US,1.07e+20,,Yes,Biology
+FLAN 137B,Google Research,2021-09-03,US,2.047e+24,True,No,Language
+PermuteFormer,Peking University,2021-09-06,CN,2.775e+18,,No,Language
+MegaMolBART,Nvidia,2021-09-14,US,7.2e+20,,Yes,Biology
+DLRM-2022,Facebook,2021-09-15,US,1.1e+21,,No,Recommendation
+PLATO-XL,Baidu,2021-09-20,CN,9.9e+21,,Yes,Language
+Turing ULRv5,Microsoft,2021-09-28,US,2.8983951e+22,,No,Language
+M6-10T,Alibaba,2021-10-08,CN,5.53e+21,,No,"Multimodal,Language,Vision"
+Yuan 1.0,Inspur,2021-10-12,CN,3.5380000000001e+23,True,No,Language
+GPT-2 (fine-tuned with HYDRA),University of California San Diego,2021-10-16,US,1.92e+21,,No,Language
+DALL-E mini,Craiyon,2021-10-26,US,3.8e+19,,Yes,Vision
+S4,Stanford University,2021-10-31,US,7.8328627e+19,,Yes,Language
+Swin Transformer V2 (SwinV2-G),Microsoft Research Asia,2021-11-18,CN,1.1e+21,,Yes,"Vision,Video"
+DeBERTaV3large,Microsoft Research,2021-11-18,US,1.07008e+20,,Yes,Language
+BASIC-L,Google,2021-11-19,US,4.12e+22,,No,Vision
+Florence,Microsoft,2021-11-22,US,4.831e+22,,No,Vision
+CTR-BERT,Amazon,2021-12-06,US,6.469632e+19,,No,Recommendation
+GLaM,Google,2021-12-13,US,3.6363112434e+23,,No,Language
+HSO,Toyota Technological Institute at Chicago,2021-12-16,US,2.272000000071e+21,,No,Language
+GLIDE,OpenAI,2021-12-20,US,4.7e+22,,Yes,Image generation
+MoE-1.1T,Meta AI,2021-12-20,US,2.227e+22,,Yes,Language
+Fairseq-dense 13B,Meta AI,2021-12-20,US,3.267e+22,,Yes,Language
+Primer (GPT-3 XL-like 1.9B),Google Brain,2022-01-24,US,2.2049963e+22,,No,Language
+InstructGPT 175B,OpenAI,2022-01-27,US,3.19181e+23,,No,Language
+GPT-NeoX-20B,EleutherAI,2022-02-09,US,9.31627008e+22,,Yes,Language
+LaMDA,Google,2022-02-10,US,3.55e+23,,No,Language
+PolyCoder,Carnegie Mellon University (CMU),2022-02-26,US,1.1e+21,,Yes,Language
+Statement Curriculum Learning,OpenAI,2022-03-02,US,1.7901648e+22,,No,"Language,Mathematics"
+GPT-3.5 (davinci-002),OpenAI,2022-03-15,US,2.578e+24,True,No,Language
+Make-A-Scene,Meta AI,2022-03-24,US,6.4172851e+21,,No,Image generation
+PaLM (540B),Google Research,2022-04-04,US,2.5272e+24,True,No,Language
+DALL·E 2,OpenAI,2022-04-06,US,3.3695784e+23,,No,Image generation
+Sparse all-MLP,Meta AI,2022-04-14,US,5.32224e+20,,No,Language
+OPT-175B,Meta AI,2022-05-02,US,4.3e+23,,Yes,Language
+OPT-13B,Meta AI,2022-05-02,US,3.53e+23,,,
+Imagen,Google Brain,2022-05-23,US,1.46e+22,,No,Image generation
+TRIMELMext (247M),Princeton University,2022-05-25,US,3.12e+19,,Yes,Language
+TRIMELMext (7M),Princeton University,2022-05-25,US,2.06e+17,,Yes,Language
+TRIMELMlong (150M),Princeton University,2022-05-25,US,6.48e+18,,Yes,Language
+LIMoE-H/14,Google,2022-06-06,US,1.8e+22,,No,"Multimodal,Vision,Language"
+BIG-G 137B,Google,2022-06-09,US,5.6e+23,,No,Language
+CoCa,Google Research,2022-06-14,US,7.3e+22,,No,Vision
+OPT-6.7B,Meta AI,2022-06-21,US,1.2060000000001e+22,,Yes,Language
+OPT-66B,Meta AI,2022-06-21,US,1.100000000001e+23,,Yes,Language
+OPT-30B,Meta AI,2022-06-21,US,5.4000000000001e+22,,Yes,Language
+Parti,Google Research,2022-06-22,US,5.09607936e+23,,No,Image generation
+DALL-E mega,Craiyon,2022-06-28,US,2.285273088e+22,,Yes,Image generation
+Minerva (540B),Google,2022-06-29,US,2.7415e+24,True,No,Language
+CodeT5-large,Salesforce,2022-07-05,US,2.72e+21,,Yes,Language
+NLLB,Meta AI,2022-07-06,US,1.751113728e+22,,Yes,Language
+AlexaTM 20B,Amazon,2022-08-02,US,2.04374016e+23,,No,Language
+GLM-130B,Tsinghua University,2022-08-04,CN,3.5490054945e+23,,Yes,Language
+BEIT-3,Microsoft,2022-08-22,US,7e+19,,Yes,"Multimodal,Vision,Language"
+PaLI,Google,2022-09-14,US,1.69e+23,,No,"Language,Vision,Multimodal"
+Whisper,OpenAI,2022-09-21,US,4.2072663e+21,,Yes,Speech
+NMST+GPT-2,New York University (NYU),2022-10-03,US,1.20380928e+20,,No,Language
+DiffDock,Massachusetts Institute of Technology (MIT),2022-10-04,US,7.2e+19,,Yes,Biology
+U-PaLM (540B),Google,2022-10-20,US,2.53e+24,True,No,Language
+Flan-PaLM 540B,Google,2022-10-20,US,2.540000000001e+24,True,No,Language
+Flan-T5 11B,Google,2022-10-20,US,3.3e+22,,Yes,Language
+XY-LENTXL,Microsoft,2022-10-26,US,7.2e+21,,No,Language
+Taiyi-Stable Diffusion,IDEA CCNL,2022-10-31,CN,5.1e+22,,Yes,Image generation
+eDiff-I,Nvidia,2022-11-02,US,5.46e+19,,No,Image generation
+Galactica,Meta AI,2022-11-16,US,3.24e+23,,Yes,"Language,Biology"
+Transformer + GFM,Nanjing University,2022-12-01,CN,7.7369416e+18,,No,Language
+Whisper v2,OpenAI,2022-12-05,US,1.1e+23,,Yes,Speech
+OPT-IML (175B),Meta AI,2022-12-22,US,4.3e+23,,Yes,Language
+DNA Fine-Tuned Language Model (DFLM),Tongji University,2023-01-02,CN,3.5e+18,,No,Biology
+VALL-E,Microsoft,2023-01-05,US,1.01e+19,,No,"Audio,Speech"
+MoLFormer-XL,IBM,2023-01-25,US,4.509e+20,,Yes,Biology
+Genie-SCOPe (bio),Columbia University,2023-01-29,US,1.81149696e+21,,Yes,Biology
+BLIP-2 (Q-Former),Salesforce Research,2023-01-30,US,1.20000000001e+21,,Yes,"Vision,Language"
+ViT-22B,Google,2023-02-10,US,1.93248e+23,,No,Vision
+LLaMA-65B,Meta AI,2023-02-24,US,5.5e+23,,Yes,Language
+LLaMA-7B,Meta AI,2023-02-24,US,4.00000001e+22,,Yes,Language
+LLaMA-13B,Meta AI,2023-02-27,US,7.8e+22,,Yes,Language
+LLaMA-33B,Meta AI,2023-02-27,US,2.7300000000001e+23,,Yes,Language
+Palmyra Large 20B,Writer,2023-03-01,US,9.6e+22,,Yes,Language
+Kosmos-1,Microsoft,2023-03-01,US,3.456e+21,,No,"Multimodal,Language,Vision"
+VALL-E X,Microsoft,2023-03-07,US,1.2e+21,,No,Speech
+GPT-4 (Mar 2023),OpenAI,2023-03-15,US,2.1e+25,True,No,"Multimodal,Language,Vision"
+PanGu-Σ,Huawei Noah's Ark Lab,2023-03-20,CN,4.67e+23,,No,Language
+Sparse Wide GPT-3 Small,Cerebras Systems,2023-03-21,US,1.875e+18,,No,Language
+Lightweight Fine-tuning a Pretrained Protein Language Model for Protein Secondary,Henan University,2023-03-23,CN,1.8710548688e+22,,,Biology
+SigLIP 400M,Google DeepMind,2023-03-27,US,4.9467301e+21,,Yes,Vision
+SigLiT,Google DeepMind,2023-03-27,US,7.6032e+19,,Yes,Vision
+Segment Anything Model,Meta AI,2023-04-05,US,7.8e+21,,Yes,Vision
+Cerebras-GPT-13B,Cerebras Systems,2023-04-06,US,2.3e+22,,Yes,Language
+gLM,Harvard University,2023-04-08,US,2.26437e+20,,Yes,Biology
+MOSS-Moon-003,Fudan University,2023-04-19,CN,6.67e+22,,Yes,Language
+MosaicML Diffusion,Databricks,2023-04-28,US,1.07085888e+22,,No,Image generation
+OpenLLaMA-13B,OpenLM Research,2023-05-01,US,7.8e+22,,Yes,Language
+MPT-7B,MosaicML,2023-05-05,US,4.2000000000000004e+22,,Yes,Language
+PaLM 2,Google,2023-05-10,US,7.34e+24,True,No,Language
+WeLM,WeChat AI,2023-05-16,CN,2.484338688e+22,,,Language
+Guanaco-65B,University of Washington,2023-05-23,US,5.5e+23,,Yes,Language
+PaLI-X,Google Research,2023-05-29,US,5.6e+23,,No,"Multimodal,Language,Vision,Video"
+TransAct,Pinterest,2023-05-31,US,1.656e+20,,No,Recommendation
+Baichuan1-7B,Baichuan,2023-06-01,CN,5.04e+22,,Yes,Language
+Polyglot-Ko-12.8B,EleutherAI,2023-06-04,US,1.28e+22,,Yes,Language
+RedPajama-INCITE-7B-Base,Together,2023-06-06,US,4.1e+22,,Yes,Language
+GPT-4 (Jun 2023),OpenAI,2023-06-13,US,2.1e+25,True,No,"Multimodal,Language,Vision"
+WizardCoder-15.5B,Microsoft,2023-06-14,US,1.12e+23,,Yes,Language
+MPT-30B,MosaicML,2023-06-22,US,1.8900000000001e+23,,Yes,Language
+Inflection-1,Inflection AI,2023-06-23,US,1.0001e+24,,No,Language
+Kosmos-2,Microsoft,2023-06-26,US,4.5500354284e+20,,Yes,"Language,Vision,Multimodal"
+Multilingual-E5-large,Microsoft,2023-06-30,US,3.370752e+18,,Yes,Language
+Pangu-Weather,Huawei,2023-07-05,CN,3.98e+22,,Yes,Earth science
+CodeGen2.5,Salesforce,2023-07-06,US,5.9e+22,,Yes,Language
+Claude 2,Anthropic,2023-07-11,US,3.866e+24,True,No,Language
+Baichuan 1-13B,Baichuan,2023-07-11,CN,9.36e+22,,Yes,Language
+Llama 2-70B,Meta AI,2023-07-18,US,8.1e+23,,Yes,Language
+Llama 2-34B,Meta AI,2023-07-18,US,4.08e+23,,No,Language
+Llama 2-7B,Meta AI,2023-07-18,US,8.4e+22,,Yes,Language
+Llama 2-13B,Meta AI,2023-07-18,US,1.6e+23,,Yes,Language
+AudioLM,Google Research,2023-07-26,US,3.9e+18,,No,Audio
+JIANG,K.D. Feddersen (KDF),2023-08-01,CN,4.03e+22,,Yes,Language
+Baichuan2-53B,Baichuan,2023-08-09,CN,8.268e+23,,No,Language
+Code Llama-34B,Meta AI,2023-08-14,US,5.3e+23,,Yes,Language
+Code Llama-7B,Meta AI,2023-08-14,US,1.1e+23,,Yes,Language
+IDEFICS-80B,Hugging Face,2023-08-22,US,1.1593580544e+23,,Yes,"Multimodal,Language,Vision"
+ShapeMol,Ohio State University,2023-08-23,US,2.59999999999998e+19,,,Biology
+PeptideBERT,Carnegie Mellon University (CMU),2023-08-28,US,4.9e+16,,Yes,Biology
+Luca 2.0,Mianbi Intelligence,2023-08-29,CN,1.2e+24,,No,
+Swift,Intel Labs,2023-08-30,US,5.337e+16,,No,Robotics
+Baichuan2-13B,Baichuan,2023-09-06,CN,2.03e+23,,Yes,Language
+TigerBot-70B,Tigerobo,2023-09-06,CN,1.02e+24,,Yes,Language
+Persimmon-8B,Adept,2023-09-07,US,4.11246e+22,,Yes,Language
+XGen-7B,Salesforce,2023-09-07,US,8.02e+22,,Yes,Language
+Hunyuan,Tencent,2023-09-07,CN,1.2e+24,,No,"Language,Image generation,Multimodal"
+Phi-1.5,Microsoft,2023-09-11,US,1.17e+21,,Yes,Language
+BTLM-3B,Cerebras Systems,2023-09-20,US,9.8e+21,,Yes,Language
+Baichuan 2-7B,Baichuan,2023-09-20,CN,1.092e+23,,Yes,Language
+InternLM-XComposer,Shanghai AI Lab,2023-09-26,CN,5.28e+21,,Yes,"Multimodal,Language,Vision"
+Qwen-14B,Alibaba,2023-09-28,CN,2.5e+23,,Yes,Language
+Amazon Titan,Amazon,2023-09-28,US,4.8e+24,True,No,"Language,Image generation"
+Qwen-7B,Alibaba,2023-09-28,CN,1.01e+23,,Yes,Language
+LLaMA-7B (protein-oriented instruction-tuned),Zhejiang University (ZJU),2023-10-02,CN,2.78e+22,,Yes,"Language,Biology"
+Phi-1,Microsoft Research,2023-10-02,US,3.3234195e+20,,Yes,Language
+CodeFuse-13B,Ant Group,2023-10-10,CN,3.09e+23,,Yes,Language
+Jiutian,China Mobile,2023-10-12,CN,1.668e+23,,Yes,Language
+ChatGLM3-6B,Z.ai (Zhipu AI),2023-10-27,CN,5.04e+22,,Yes,"Multimodal,Language,Vision"
+Skywork-13B,Kunlun Inc.,2023-10-30,CN,2.5e+23,,Yes,Language
+BlueLM 7B,vivo AI lab,2023-10-31,CN,1.0920000000001e+23,,Yes,Language
+Nanbeige-16B,Nanbeige LLM Lab,2023-11-01,CN,2.4e+23,,Yes,Language
+Yi-34B,01.AI,2023-11-02,CN,6.1e+23,,Yes,Language
+DeepSA,ShanghaiTech University,2023-11-02,CN,1e+19,,No,Biology
+BlueLM 70B,vivo AI lab,2023-11-02,CN,4.2e+23,,No,Language
+BlueLM 130B,vivo AI lab,2023-11-02,CN,7.8e+23,,No,Language
+BlueLM 175B,vivo AI lab,2023-11-02,CN,1.05e+24,,No,Language
+Yi 6B,01.AI,2023-11-02,CN,1.26e+23,,Yes,Language
+Grok-1,xAI,2023-11-04,US,2.90000000001e+24,,Yes,Language
+Whisper v3,OpenAI,2023-11-06,US,2.7e+23,,Yes,Speech
+RoFormer,Zhuiyi Technology,2023-11-08,CN,2.162688e+18,,No,Language
+GraphCast,Google DeepMind,2023-11-14,US,2.1000000000000002e+22,,Yes,Earth science
+Nemotron-3-8B,Nvidia,2023-11-15,US,1.8e+23,,Yes,Language
+Orca 2-13B,Microsoft Research,2023-11-21,US,4.6e+22,,Yes,Language
+Inflection-2,Inflection AI,2023-11-22,US,1.001e+25,True,No,Language
+Yuan 2.0,Inspur,2023-11-27,CN,1.78e+23,,Yes,Language
+Qwen-72B,Alibaba,2023-11-30,CN,1.3e+24,,Yes,Language
+Granite 13B,IBM,2023-11-30,US,2.44e+23,,No,Language
+Gemini 1.0 Ultra,Google DeepMind,2023-12-06,US,5.0000000001e+25,True,No,"Multimodal,Language,Vision"
+Llama Guard,Meta AI,2023-12-07,US,1.6e+23,,Yes,Language
+Phi-2,Microsoft,2023-12-12,US,2.27e+22,,Yes,Language
+FunSearch,Google DeepMind,2023-12-14,US,3.87e+23,,Yes,"Language,Search"
+YaYi 2.0,Yayi (Wenge),2023-12-22,CN,4.77e+23,,Yes,Language
+GQA-8-XXL,Google Research,2023-12-23,US,3.4912896e+22,,No,Language
+DeepSeek LLM 67B,DeepSeek,2024-01-05,CN,8.04e+23,,Yes,Language
+DeepSeek-LLM-1.3b-base,DeepSeek,2024-01-05,CN,3.9e+21,,No,Language
+DeepSeek LLM 7B,DeepSeek,2024-01-05,CN,8.4e+22,,Yes,Language
+DeepSeekMoE-16B,DeepSeek,2024-01-11,CN,3.4e+22,,Yes,Language
+OmniNA,Tianjin Medical University,2024-01-15,CN,2.51092992e+21,,,Biology
+Yi-VL-34B,01.AI,2024-01-23,CN,1.85174e+22,,Yes,"Vision,Language,Multimodal"
+Code Llama-70B,Meta AI,2024-01-29,US,1.26e+24,,Yes,Language
+Qwen1.5-72B,Alibaba,2024-02-04,CN,1.3e+24,,Yes,Language
+Qwen1.5-7B,Alibaba,2024-02-04,CN,1.68e+23,,Yes,Language
+Qwen1.5-14B,Alibaba,2024-02-04,CN,3.36e+23,,Yes,Language
+CARP,Microsoft Research,2024-02-06,US,1.0193977e+22,,Yes,Biology
+V-JEPA,Meta AI,2024-02-15,US,1.6387080192e+21,,,Vision
+Gemma 7B,Google DeepMind,2024-02-21,US,3.07e+23,,Yes,Language
+Gemma 2B,Google DeepMind,2024-02-21,US,4.5115822e+22,,Yes,Language
+Genie,Google DeepMind,2024-02-23,US,6.6e+22,,No,"Video,Games"
+Gemma 1.1 7B Instruct,Google,2024-02-24,US,3.0744e+23,,Yes,Language
+Nemotron-4 15B,Nvidia,2024-02-27,US,7.5005116e+23,,No,Language
+Griffin,Google DeepMind,2024-02-29,US,1.5848931924611135e+22,,No,Language
+Hawk,Google DeepMind,2024-02-29,US,3.95e+21,,No,Language
+Inflection-2.5,Inflection AI,2024-03-07,US,8.000001e+24,,No,Language
+DeepSeek-VL-7B,DeepSeek,2024-03-08,CN,1.0264959e+23,,Yes,"Multimodal,Vision,Language"
+DeepSeek-VL-1.3B,DeepSeek,2024-03-08,CN,8.6547326e+21,,Yes,"Multimodal,Vision,Language"
+RFM-1,Covariant,2024-03-11,US,2.4e+20,,No,"Robotics,Vision,Video"
+MM1-30B,Apple,2024-03-14,US,4.86e+23,,No,"Multimodal,Language,Vision"
+DBRX,Databricks,2024-03-27,US,2.6e+24,,Yes,Language
+Grok-1.5,xAI,2024-03-28,US,9.26e+24,,No,Language
+MobileCLIP-B (LT),Apple,2024-04-01,US,1.3423599e+22,,Yes,Vision
+TeleChat-7B,China Telecom,2024-04-01,CN,4.2e+22,,Yes,Language
+TeleChat-3B,China Telecom,2024-04-01,CN,1.44e+22,,No,Language
+TeleChat-12B,China Telecom,2024-04-01,CN,8.64e+22,,Yes,Language
+SambaLingo-Thai-Chat (7B),"SambaNova Systems, Inc",2024-04-08,US,8.569999999999999e+22,,Yes,Language
+SambaLingo-Thai-Chat-70B,"SambaNova Systems, Inc",2024-04-08,US,8.1168e+23,,Yes,Language
+Reka Core,Reka AI,2024-04-15,US,8.400010000000001e+24,,No,"Multimodal,Language,Vision,Video,Speech"
+Reka Flash,Reka AI,2024-04-15,US,6.3e+23,,No,"Multimodal,Language,Vision,Video,Speech"
+Llama 3-70B,Meta AI,2024-04-18,US,7.861e+24,,Yes,Language
+Llama 3-8B,Meta AI,2024-04-18,US,7.2e+23,,Yes,Language
+Reka Edge,Reka AI,2024-04-18,US,1.89e+23,,No,"Multimodal,Language,Vision,Video,Speech"
+phi-3-mini 3.8B,Microsoft,2024-04-23,US,7.524e+22,,Yes,Language
+phi-3-medium 14B,Microsoft,2024-04-23,US,4.032e+23,,Yes,Language
+phi-3-small 7.4B,Microsoft,2024-04-23,US,2.1312e+23,,Yes,Language
+Phi-3.5-mini,Microsoft,2024-04-23,US,3.7101154e+22,,Yes,Language
+Phi-3.5-vision,Microsoft,2024-04-23,US,8.784e+22,,Yes,Vision
+Phi-3.5-MoE,Microsoft,2024-04-23,US,3.0202896e+23,,Yes,Language
+Arctic,Snowflake,2024-04-24,US,3.8347175e+23,,Yes,Language
+DiffPepBuilder,Peking University,2024-04-30,CN,7.667785728001e+21,,,Biology
+GenCast,Google DeepMind,2024-05-01,US,8.169984e+20,,Yes,Earth science
+OpenELM-1.1B,Apple,2024-05-02,US,1.0520327e+22,,Yes,Language
+OpenELM-3B,Apple,2024-05-02,US,3.417119e+22,,Yes,Language
+OpenELM-450M,Apple,2024-05-02,US,6.3156568e+21,,Yes,Language
+OpenELM-270M,Apple,2024-05-02,US,2.7470309e+21,,Yes,Language
+Microsoft MAI-1 (2024 unreleased),Microsoft,2024-05-06,US,1.602828e+22,,No,Language
+DeepSeek-V2 (MoE-236B),DeepSeek,2024-05-07,CN,1.02e+24,,Yes,Language
+MatterSim (M3GNet - MatterSim-v1.0.0-5M),Microsoft Research AI for Science,2024-05-10,US,1.62e+16,,Yes,Materials science
+MatterSim (Grpaphomer),Microsoft Research AI for Science,2024-05-10,US,1.118208e+20,,,Materials science
+Yi-Large,01.AI,2024-05-13,CN,1.8e+24,,No,Language
+Yi-1.5-34B,01.AI,2024-05-13,CN,7.344e+23,,Yes,Language
+Yi-1.5-9B,01.AI,2024-05-13,CN,1.90728e+23,,Yes,Language
+360Zhinao-7B,360 Security Technology,2024-05-22,CN,1.428e+23,,Yes,Language
+YOLOv10-X,Tsinghua University,2024-05-23,CN,1.478888e+17,,Yes,Vision
+Zamba2-7B,Zyphra,2024-05-26,US,8.82e+22,,Yes,Language
+Aurora,Microsoft Research,2024-05-28,US,4.5287424e+21,,No,Earth science
+Nanbeige2-16B-Chat,Nanbeige LLM Lab,2024-05-28,CN,4.05e+23,,Yes,Language
+Granite 20B,IBM Research,2024-05-31,US,3.0000000000001e+23,,Yes,Language
+Qwen2-72B,Alibaba,2024-06-07,CN,3.02e+24,,Yes,Language
+Qwen2-7B,Alibaba,2024-06-07,CN,2.9400000000001e+23,,Yes,Language
+Qwen2-57B-A14B,Alibaba,2024-06-07,CN,3.7800000000001e+23,,Yes,Language
+Qwen2-1.5B,Alibaba,2024-06-07,CN,6.3e+22,,Yes,Language
+Qwen2-0.5B,Alibaba,2024-06-07,CN,3.6e+22,,Yes,Language
+Mamba2-Hybrid,Nvidia,2024-06-12,US,1.8186e+23,,Yes,Language
+Nemotron-4 340B,Nvidia,2024-06-14,US,1.8e+25,True,Yes,Language
+JIUTIAN-139MoE,China Mobile,2024-06-15,CN,4.3596131e+23,,Yes,Language
+DeepSeek-Coder-V2 236B,DeepSeek,2024-06-17,CN,1.2852e+24,,Yes,Language
+Claude 3.5 Sonnet,Anthropic,2024-06-20,US,2.700000000000001e+25,True,No,"Multimodal,Language,Vision"
+Gemma 2 9B,Google DeepMind,2024-06-24,US,4.32e+23,,Yes,Language
+Gemma 2 27B,Google DeepMind,2024-06-24,US,2.106e+24,,Yes,Language
+Gemma 2 2B,Google DeepMind,2024-06-24,US,3.12e+22,,Yes,Language
+Flexi-JEST++,Google DeepMind,2024-06-25,US,1.26e+21,,No,Vision
+JEST++,Google DeepMind,2024-06-25,US,1.9e+21,,No,Vision
+PaliGemma,Google DeepMind,2024-07-10,US,1.0652844e+22,,Yes,Vision
+OpenDiLoCo 150M,Prime Intellect,2024-07-10,US,4.152361e+19,,No,Language
+OpenDiLoCo 1.1B,Prime Intellect,2024-07-10,US,6.0901294e+20,,No,Language
+MP4,310.ai,2024-07-15,US,9.6585178e+22,,No,Biology
+DCLM 7B,Apple,2024-07-20,US,1.05e+23,,Yes,Language
+Llama 3.1-405B,Meta AI,2024-07-23,US,3.8e+25,True,Yes,Language
+Llama 3.1-70B,Meta AI,2024-07-23,US,7.929e+24,,Yes,Language
+Llama 3.1-8B,Meta AI,2024-07-23,US,1.224e+24,,Yes,Language
+AFM-on-device,Apple,2024-07-29,US,4.5126e+23,,No,Language
+AFM-server,Apple,2024-07-29,US,4.3e+24,,No,Language
+Segment Anything Model 2,Meta AI,2024-07-29,US,1.24e+22,,Yes,"Vision,Video"
+Florence-2-B (base),Microsoft,2024-07-29,US,5.4310727e+21,,No,Vision
+Florence-2-L (large),Microsoft,2024-07-29,US,1.2406517e+22,,No,Vision
+Grok-2,xAI,2024-08-13,US,2.96e+25,True,No,"Language,Vision,Multimodal"
+CLR_ESP,Kansas State University,2024-08-16,US,2.11e+17,,Yes,Biology
+Kosmos-2.5,Microsoft,2024-08-21,US,2.2018015e+21,,Yes,"Multimodal,Language,Vision"
+DISTRO,Nous Research,2024-08-26,US,7.1497946e+20,,,Language
+Alphaflow,Massachusetts Institute of Technology (MIT),2024-09-02,US,1.64975616e+21,,Yes,Biology
+ESMFlow,Massachusetts Institute of Technology (MIT),2024-09-02,US,7.6197888e+20,,Yes,Biology
+DeepSeek-V2.5,DeepSeek,2024-09-06,CN,1.7892e+24,,Yes,Language
+ALOHA Unleashed,Google DeepMind,2024-09-08,US,3.6084096e+21,,No,Robotics
+AbGPT,Carnegie Mellon University (CMU),2024-09-09,US,4.2506168e+21,,No,Biology
+E2 TTS,Microsoft,2024-09-12,US,4.939776e+20,,No,Speech
+Qwen2.5-32B,Alibaba,2024-09-17,CN,3.51e+24,,Yes,Language
+Qwen2-VL-72B,Alibaba,2024-09-18,CN,6.048e+23,,Yes,"Language,Vision,Multimodal"
+Qwen2-VL-2B,Alibaba,2024-09-18,CN,1.68e+22,,Yes,"Language,Vision,Multimodal"
+Qwen2-VL-7B,Alibaba,2024-09-18,CN,6.72e+22,,Yes,"Language,Vision,Multimodal"
+Qwen2.5-Coder (7B),Alibaba,2024-09-18,CN,2.5113e+23,,Yes,Language
+Qwen2.5-Coder (1.5B),Alibaba,2024-09-18,CN,5.082e+22,,Yes,Language
+Qwen2.5-72B,Alibaba,2024-09-19,CN,7.8e+24,,Yes,Language
+GeoSeqBuilder,Peking University,2024-09-19,CN,6.480000000000066e+18,,Yes,Biology
+Qwen2.5 Instruct (72B),Alibaba,2024-09-19,CN,7.8516e+24,,Yes,Language
+Qwen2.5-3B,Alibaba,2024-09-19,CN,3.3372e+23,,Yes,Language
+Qwen2.5-7B,Alibaba,2024-09-19,CN,8.2188e+23,,Yes,Language
+Qwen2.5-1.5B,Alibaba,2024-09-19,CN,1.6632e+23,,Yes,Language
+Qwen2.5-14B,Alibaba,2024-09-19,CN,1.58760000000001e+24,,Yes,Language
+Qwen2.5-Math-7B-Base,Alibaba,2024-09-19,CN,8.6388e+23,,Yes,Language
+Qwen2.5-Math-1.5B,Alibaba,2024-09-19,CN,1.7532e+23,,Yes,Language
+Telechat2-115B,China Telecom,2024-09-20,CN,6.9e+24,,Yes,Language
+ProteinSetTransformer,University of Wisconsin Madison,2024-09-23,US,1.6500000000000016e+19,,,Biology
+TAWFN,Northeastern University (China),2024-09-23,CN,3.5000000000000287e+18,,,Biology
+Llama 3.2 11B,Meta AI,2024-09-24,US,5.79e+23,,Yes,"Multimodal,Vision,Language"
+Llama 3.2 1B,Meta AI,2024-09-24,US,6.642e+22,,Yes,Language
+Llama 3.2 3B,Meta AI,2024-09-24,US,1.7334e+23,,Yes,Language
+ByteDance Seaweed,ByteDance,2024-09-24,CN,5.75e+22,,No,Video
+Movie Gen Video,Meta AI,2024-10-04,US,1.65e+24,,No,"Video,Vision"
+Movie Gen Audio,Meta AI,2024-10-04,US,1.4e+23,,No,Audio
+Aria,Rhymes AI,2024-10-08,US,1.428e+23,,Yes,"Multimodal,Language,Video,Vision"
+RDT-1B,Tsinghua University,2024-10-10,CN,4.06e+22,,Yes,Robotics
+CHAI-1,Chai discovery,2024-10-15,US,7.7605724e+21,,Yes,Biology
+Yi-Lightning,01.AI,2024-10-16,CN,1.5e+24,,No,Language
+Allegro,Rhymes AI,2024-10-20,US,6.565847e+22,,Yes,Video
+Granite 3.0 8B,IBM,2024-10-21,US,5.832e+23,,Yes,Language
+Granite 3.0 2B,IBM,2024-10-21,US,1.8e+23,,Yes,Language
+NVLM-D 72B,Nvidia,2024-10-22,US,3.02e+24,,Yes,"Vision,Language"
+NVLM-H 72B,Nvidia,2024-10-22,US,3.02e+24,,No,"Vision,Language"
+NVLM-X 72B,Nvidia,2024-10-22,US,3.0398181e+24,,No,"Vision,Language"
+Doubao-pro,ByteDance,2024-10-28,CN,2.505e+25,,No,Language
+VASA-1,Microsoft Research Asia,2024-10-31,CN,4.012416e+19,,No,"Video,Audio"
+OpenPhenom-S/16,Recursion Pharmaceuticals,2024-11-05,US,3.18e+19,,Yes,"Biology,Vision"
+Hunyuan-Large,Tencent,2024-11-06,CN,3.49237e+24,,Yes,Language
+Fish-Speech 1.4,Fish Audio,2024-11-09,US,1.9151355e+21,,Yes,Speech
+NatureLM-audio,Earth Species Project,2024-11-11,US,1.4108774e+21,,Yes,Audio
+Qwen2.5-Coder (32B),Alibaba,2024-11-12,CN,1.0725e+24,,Yes,Language
+360Zhinao2-7B,360 Security Technology,2024-11-18,CN,4.242e+23,,Yes,Language
+Hymba,Nvidia,2024-11-22,US,1.35e+22,,Yes,Language
+Fish-Speech 1.5,Fish Audio,2024-11-24,US,2.6599104e+21,,Yes,Speech
+Amazon Nova Pro,Amazon,2024-12-03,US,6.000010000000001e+24,,No,"Multimodal,Language,Video,Vision"
+Hunyuan Video,Tencent,2024-12-03,CN,1.4814815e+23,,Yes,Video
+Llama 3.3 70B,Meta AI,2024-12-06,US,6.8649768e+24,,Yes,Language
+Phi-4,Microsoft Research,2024-12-12,US,9.3202015e+23,,Yes,Language
+Granite 3.1 2B,IBM,2024-12-18,US,1.8e+23,,Yes,Language
+Granite 3.1 8B,IBM,2024-12-18,US,5.832e+23,,Yes,Language
+DeepSeek-V3,DeepSeek,2024-12-24,CN,3.3e+24,,Yes,Language
+"Cosmos-1.0-
+Diffusion-14B Video2World",Nvidia,2025-01-07,US,2.8e+24,,Yes,"Robotics,Vision,Video"
+Cosmos-Predict1-7b-Video2World,Nvidia,2025-01-07,US,1.4e+24,,Yes,"Video,Vision,Robotics"
+Cosmos-Predict1-14b-Video2World,Nvidia,2025-01-07,US,2.8e+24,,Yes,"Video,Vision,Robotics"
+MiniMax-Text-01,MiniMax,2025-01-14,CN,3.1417632e+24,,Yes,Language
+MiniMax-VL-01,MiniMax,2025-01-14,CN,2.1238848e+24,,Yes,"Vision,Language,Multimodal"
+MatterGen,Microsoft Research AI for Science,2025-01-16,US,2.69568e+19,,Yes,Materials science
+DeepSeek-R1,DeepSeek,2025-01-20,CN,3.5e+24,,Yes,Language
+gte-modernbert,Alibaba,2025-01-22,CN,3.676128e+21,,Yes,Language
+Baichuan-Omni-1.5,Baichuan,2025-01-26,CN,3.3e+22,,Yes,"Multimodal,Language,Speech,Vision,Video,Audio"
+Grok 3,xAI,2025-02-17,US,3.5e+26,True,No,"Language,Vision,Multimodal"
+Step-Audio-Chat 130B,StepFun,2025-02-18,CN,1.92504e+24,,Yes,Speech
+Step-1,StepFun,2025-02-18,CN,6.24e+23,,No,Language
+Step-Omni,StepFun,2025-02-18,CN,2.54904e+24,,No,"Speech,Language,Multimodal,Vision"
+PaliGemma 2 3B Mix 224,Google,2025-02-19,US,4.0397694e+22,,Yes,"Vision,Multimodal,Language"
+Qwen2.5-VL-72B,Alibaba,2025-02-19,CN,9.5712e+24,,Yes,"Language,Vision,Multimodal"
+Qwen2.5-VL-7B,Alibaba,2025-02-19,CN,9.9408e+23,,Yes,"Language,Vision,Multimodal"
+Qwen2.5-VL-3B,Alibaba,2025-02-19,CN,4.0752e+23,,Yes,"Language,Vision,Multimodal"
+SigLIP 2,Google DeepMind,2025-02-20,US,8.208e+22,,Yes,Vision
+Claude 3.7 Sonnet,Anthropic,2025-02-24,US,3.35e+25,,No,"Language,Vision,Multimodal"
+Step-Video-T2V,StepFun,2025-02-24,CN,4.1015808e+24,,Yes,Video
+Wan 2.1 14B I2V,Alibaba,2025-02-25,CN,2.5e+23,,Yes,"Video,Vision"
+GPT-4.5,OpenAI,2025-02-27,US,3.8e+26,True,No,"Language,Vision,Multimodal"
+Phi-4 Mini,Microsoft,2025-03-03,US,9.9561596e+22,,Yes,Language
+Phi-4-Multimodal,Microsoft,2025-03-03,US,1.1852519e+23,,Yes,"Multimodal,Language,Vision,Speech"
+QwQ-32B,Alibaba,2025-03-06,CN,3.51e+24,,Yes,Language
+"Ling-lite-1.5 (""Bailing"")",Ant Group,2025-03-10,CN,1.485e+23,,Yes,Language
+"Ling-Plus (""Bailing"")",Ant Group,2025-03-10,CN,1.5552e+24,,Yes,Language
+Hunyuan-TurboS,Tencent,2025-03-11,CN,5.4e+24,,No,Language
+Gemma 3 27B,Google DeepMind,2025-03-12,US,2.268e+24,,Yes,"Language,Vision,Multimodal"
+Gemma 3 12B,Google DeepMind,2025-03-12,US,8.64e+23,,Yes,"Language,Vision,Multimodal"
+Gemma 3 4B,Google DeepMind,2025-03-12,US,9.6e+22,,Yes,"Language,Vision,Multimodal"
+Gemma 3 1B,Google DeepMind,2025-03-12,US,1.2e+22,,Yes,Language
+OLMo 2 32B,Allen Institute for AI,2025-03-13,US,1.3e+24,,Yes,Language
+Llama Nemotron Ultra 253B,Nvidia,2025-03-18,US,3.911001e+25,True,Yes,Language
+GR00T N1 2B,Nvidia,2025-03-18,US,7.12368e+22,,Yes,"Robotics,Vision,Language"
+Cosmos-Transfer1-7B,Nvidia,2025-03-18,US,3.6059017e+24,,Yes,"Video,Vision,Robotics"
+DeepSeek-V3 (Mar 2025),DeepSeek,2025-03-24,CN,3.3e+24,,Yes,Language
+Llama 4 Scout,Meta AI,2025-04-05,US,4.08e+24,,Yes,"Multimodal,Language,Vision"
+Llama 4 Maverick,Meta AI,2025-04-05,US,2.244000000001e+24,,Yes,"Multimodal,Language,Vision"
+Llama 4 Behemoth (preview),Meta AI,2025-04-05,US,5.18400000000001e+25,True,No,"Multimodal,Language,Vision"
+Pangu Ultra,Huawei,2025-04-10,CN,1.0692e+25,,No,Language
+Seaweed-7B,ByteDance,2025-04-11,CN,9.0007697e+23,,No,Video
+Nemotron-H 8B,Nvidia,2025-04-14,US,7.2e+23,,Yes,Language
+Nemotron-H 56B,Nvidia,2025-04-14,US,6.72e+24,,Yes,Language
+GLM-Z1-Rumination-32B-0414,Tsinghua University,2025-04-14,CN,2.88e+24,,Yes,Language
+GLM-4-9B-0414,Tsinghua University,2025-04-14,CN,8.1e+23,,Yes,Language
+Foundation-sec-8b,Cisco,2025-04-28,US,1.2242448e+24,,Yes,Language
+Qwen3-235B-A22B,Alibaba,2025-04-29,CN,4.752e+24,,Yes,Language
+Qwen3-30B-A3B,Alibaba,2025-04-29,CN,6.48e+23,,Yes,Language
+Qwen3-32B,Alibaba,2025-04-29,CN,7.0848e+24,,Yes,Language
+Qwen3-14B,Alibaba,2025-04-29,CN,3.1968e+24,,Yes,Language
+Qwen3-8B,Alibaba,2025-04-29,CN,1.7712e+24,,Yes,Language
+Qwen3-4B,Alibaba,2025-04-29,CN,8.64e+23,,Yes,Language
+Qwen3-1.7B,Alibaba,2025-04-29,CN,3.672e+23,,Yes,Language
+Qwen3-0.6B,Alibaba,2025-04-29,CN,1.296e+23,,Yes,Language
+Phi-4-Reasoning,Microsoft,2025-04-30,US,9.3368077e+23,,Yes,Language
+Pangu Ultra MoE,Huawei,2025-05-07,CN,3.0888e+24,,No,Language
+Earth-2 (cBottle-SR),Nvidia,2025-05-10,US,1.6014864e+21,,Yes,"Earth science,Image generation"
+Seed1.5-VL,ByteDance,2025-05-11,CN,1.388556e+24,,No,"Vision,Language,Multimodal,Video"
+Marin 8B,Marin,2025-05-19,US,6.12e+23,,Yes,Language
+Gemma 3n,Google,2025-05-20,US,5.181e+23,,Yes,"Language,Multimodal,Speech,Vision"
+DataRater test model (1B),Google DeepMind,2025-05-23,US,1.2e+20,,,Language
+Pangu Pro MoE,Huawei,2025-05-28,CN,1.287e+24,,Yes,Language
+DeepSeek-R1 (May 2025),DeepSeek,2025-05-28,CN,4.020010000000001e+24,,Yes,Language
+OpenAudio-S1,Fish Audio,2025-06-03,US,3.36e+22,,No,Speech
+MiMo-VL-7B-SFT,Xiaomi Corp,2025-06-04,CN,1.1508e+24,,Yes,"Vision,Multimodal,Language,Video"
+Seed-Coder,ByteDance,2025-06-04,CN,2.952e+23,,Yes,Language
+MiMo-7B-Base,Xiaomi Corp,2025-06-05,CN,1.05e+24,,Yes,Language
+FGN,Google DeepMind,2025-06-12,US,9.618950880000001e+21,,No,Earth science
+MiniMax-M1-80k,MiniMax,2025-06-13,CN,4.3240062e+24,,Yes,Language
+MiniMax-M1-40k,MiniMax,2025-06-13,CN,4.1861931e+24,,Yes,Language
+AlphaGenome,Google DeepMind,2025-06-25,US,1.362969e+22,,No,Biology
+ERNIE-4.5-300B-A47B,Baidu,2025-06-29,CN,2.82e+24,,Yes,Language
+ERNIE-4.5-21B-A3B,Baidu,2025-06-29,CN,1.8e+23,,Yes,Language
+dots.llm1,Rednote,2025-07-06,CN,1.2164856e+24,,Yes,Language
+Grok 4,xAI,2025-07-09,US,5.0000000000001e+26,True,No,"Language,Multimodal,Vision"
+Kimi K2,Moonshot,2025-07-11,CN,2.976e+24,,Yes,Language
+Qwen3-Coder-480B-A35B,Alibaba,2025-07-22,CN,1.575e+24,,Yes,Language
+Qwen3-235B-A22B-Thinking (Jul 2025),Alibaba,2025-07-25,CN,4.752e+24,,Yes,Language
+Qwen3-235B-A22B (Jul 2025),Alibaba,2025-07-25,CN,4.752e+24,,Yes,Language
+Wan 2.2 14B T2V,Alibaba,2025-07-28,CN,4.2e+23,,Yes,Video
+Qwen3-30B-A3B (Jul 2025),Alibaba,2025-07-29,CN,6.48e+23,,Yes,Language
+gpt-oss-120b,OpenAI,2025-08-05,US,4.94e+24,,Yes,Language
+gpt-oss-20b,OpenAI,2025-08-05,US,5.49e+23,,Yes,Language
+GPT-5,OpenAI,2025-08-07,US,6.6e+25,,No,"Multimodal,Language,Vision"
+Gemma 3 270M,Google DeepMind,2025-08-14,US,9.72e+21,,Yes,Language
+NVIDIA-Nemotron-Nano-9B-v2,Nvidia,2025-08-18,US,1.53e+24,,Yes,Language
+NVIDIA-Nemotron-Nano-12B-v2,Nvidia,2025-08-18,US,1.5192e+24,,Yes,Language
+FlowER,Massachusetts Institute of Technology (MIT),2025-08-20,US,5.88e+16,,Yes,Materials science
+DeepSeek-V3.1,DeepSeek,2025-08-21,CN,3.594058e+24,,Yes,Language
+Seed-OSS-36B-Base,ByteDance,2025-08-21,CN,2.592e+24,,Yes,Language
+LongCat-Flash,Meituan Inc,2025-09-01,CN,3.726e+24,,Yes,Language
+Qwen3-Max,Alibaba,2025-09-05,CN,1.512e+25,,No,Language
+Qwen3-Next-80B-A3B,Alibaba,2025-09-10,CN,2.7e+23,,Yes,Language
+Ling-mini-base-2.0-20T,Ant Group,2025-09-10,CN,1.68e+23,,Yes,Language
+Ling-flash-base-2.0-20T,Ant Group,2025-09-10,CN,7.32e+23,,Yes,Language
+AgentFounder-30B,Alibaba,2025-09-16,CN,6.5367e+23,,Yes,Language
+DeepSeek-V3.1-Terminus,DeepSeek,2025-09-22,CN,3.594058e+24,,Yes,Language
+Qwen3-Omni-Flash,Alibaba,2025-09-22,CN,3.6e+22,,No,"Multimodal,Language,Vision,Speech,Video"
+Qwen3-Omni-30B-A3B,Alibaba,2025-09-22,CN,3.6e+22,,Yes,"Multimodal,Language,Vision,Speech,Video"
+SimpleFold,Apple,2025-09-23,US,2e+21,,Yes,Biology
+DeepSeek-V3.2-Exp,DeepSeek,2025-09-29,CN,4.18e+24,,Yes,Language
+Granite-4.0-H-Tiny,IBM,2025-10-02,US,1.35e+23,,Yes,Language
+Granite-4.0-H-Micro,IBM,2025-10-02,US,3.15e+23,,Yes,Language
+Granite-4.0-H-Small,IBM,2025-10-02,US,1.215e+24,,Yes,Language
+Ling-1T,Ant Group,2025-10-10,CN,6.000001e+24,,Yes,Language
+Odyssey 102B,Anthrogen,2025-10-18,US,1.1e+23,,No,Biology
+Ring-mini-linear-2.0,Ant Group,2025-10-23,CN,1.714452e+23,,Yes,Language
+Ring-flash-linear-2.0,Ant Group,2025-10-23,CN,7.686e+23,,Yes,Language
+Emu3.5,Beijing Academy of Artificial Intelligence / BAAI,2025-10-30,CN,9.86736e+24,,Yes,"Video,Multimodal,Image generation,Vision,Language,Speech"
+Kimi Linear,Moonshot,2025-10-30,CN,1.026e+23,,Yes,Language
+Kimi K2 Thinking,Moonshot,2025-11-06,CN,4.2e+24,,Yes,Language
+Olmo 3,Allen Institute for AI,2025-11-20,US,1.1e+24,,Yes,Language
+DeepSeek-V3.2,DeepSeek,2025-12-01,CN,4.2e+24,,Yes,
+Nemotron 3-Nano-30B-A3B,Nvidia,2025-12-15,US,4.8e+23,,Yes,Language
+MiMo-V2-Flash,Xiaomi Corp,2025-12-16,CN,2.43e+24,,Yes,Language
+GLM-4.7,Z.ai (Zhipu AI),2025-12-22,CN,4.42e+24,,Yes,Language
+Kimi K2.5,Moonshot,2026-02-02,CN,5.8e+24,,Yes,Language
+GLM-5,Z.ai (Zhipu AI),2026-02-12,CN,6.84e+24,,Yes,Language
+Composer 2,Cursor,2026-03-19,US,2.32e+25,,No,Language
+MiMo-V2.5-Pro,Xiaomi Corp,2026-04-23,CN,6.804e+24,,Yes,Language
+DeepSeek-V4-Pro,DeepSeek,2026-04-24,CN,9.702e+24,,Yes,Language
+DeepSeek-V4-Flash,DeepSeek,2026-04-24,CN,2.496e+24,,Yes,Language
+Granite 4.1 30B,IBM,2026-04-29,US,2.7e+24,,Yes,Language
+Granite 4.1 8B,IBM,2026-04-29,US,7.2e+23,,Yes,Language
+Composer 2.5,Cursor,2026-05-18,US,3.87e+25,,No,Language
+MAI-Thinking-1,Microsoft,2026-06-02,US,6.98511e+24,,No,Language
+Nemotron 3 Ultra,Nvidia,2026-06-04,US,6.6e+24,,Yes,Language
+LongCat-2.0,Meituan Inc,2026-06-29,CN,1.008e+25,,Yes,Language
+Inkling,Thinking Machines,2026-07-15,US,1.1e+25,,Yes,"Language,Multimodal,Audio,Video,Vision"
+Kimi K3,Moonshot,2026-07-16,CN,2.0001e+25,,Yes,"Language,Multimodal,Vision"
+DeepSeek V4 Flash 0731,DeepSeek,2026-07-31,CN,2.496e+24,,Yes,Language
+GLM-5.3-Flash,Z.ai (Zhipu AI),2026-08-20,CN,3.24e+24,,Yes,"Language,Vision,Multimodal"
+GPT-6 Astra,OpenAI,2026-09-03,US,1.0001e+27,True,No,"Multimodal,Language,Vision"
+DeepSeek V4.1 Flash,DeepSeek,2026-09-09,CN,4.32e+24,,Yes,"Language,Vision,Multimodal"
