@@ -1,0 +1,18 @@
+# ---- 受限数据隔离（订阅数据不得公开分发）----
+# Wind / Choice / Crunchbase / CB Insights / Statista 等下载物放这里
+data/external/*
+!data/external/.gitkeep
+
+# ---- 原始压缩包不入库，只保留解压后的 CSV ----
+*.zip
+
+# ---- 派生文件由脚本生成 ----
+data/processed/*.tmp
+
+# ---- 系统与缓存 ----
+.DS_Store
+Thumbs.db
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
