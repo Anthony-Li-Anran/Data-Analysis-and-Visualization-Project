@@ -1,0 +1,5 @@
+provider,offering,gpu,usd_per_gpu_hour,observed_on,source_url
+Nebius,On-demand HGX,B200,8.50,2026-11-24,https://nebius.com/prices
+Nebius,On-demand HGX,B300,9.50,2026-11-24,https://nebius.com/prices
+Runpod,On-demand Secure Cloud,B200,7.99,2026-11-24,https://www.runpod.io/gpu-models/b200
+Runpod,On-demand Secure Cloud,B300,8.99,2026-11-24,https://www.runpod.io/gpu-models/b300

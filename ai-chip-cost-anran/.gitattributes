@@ -1,0 +1,5 @@
+# Keep publisher snapshots byte-for-byte for the recorded checksums.
+data/* -text
+
+# The HTML embeds the figures as their original SVG bytes.
+figures/*.svg -text

@@ -1,0 +1,3 @@
+provider,model,uncached_input_usd_per_m,cached_input_usd_per_m,output_usd_per_m,observed_on,source_url
+DeepInfra,gpt-oss-120b,0.037,0.019,0.17,2026-11-24,https://deepinfra.com/openai/gpt-oss-120b
+Fireworks,gpt-oss-120b,0.15,0.015,0.60,2026-11-24,https://fireworks.ai/pricing

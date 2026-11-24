@@ -1,0 +1,38 @@
+{
+  "conversation": {
+    "raw_rows": 4620542,
+    "invalid_timestamp": 0,
+    "invalid_tokens": 0,
+    "zero_output": 0,
+    "source": "AzureLLMInferenceTrace_conv_1week.csv",
+    "canonical_prefix_sha256": "21564fd4cc1ebea88b799d26bdb0ccab42dd0aa6749ca43a2c399fca222718e1",
+    "first_timestamp": "2024-05-12T00:00:00.001163+00:00",
+    "window_start": "2024-05-12T00:00:00+00:00",
+    "window_end_exclusive": "2024-05-13T12:00:00+00:00",
+    "retained_requests": 4620542,
+    "edge_requests_excluded": 0,
+    "zero_traffic_minutes": 0,
+    "minutes_retained": 2160,
+    "release": "2024",
+    "retained_input_tokens": 7813196064,
+    "retained_output_tokens": 525637016
+  },
+  "code": {
+    "raw_rows": 426276,
+    "invalid_timestamp": 0,
+    "invalid_tokens": 0,
+    "zero_output": 0,
+    "source": "AzureLLMInferenceTrace_code_1week.csv",
+    "canonical_prefix_sha256": "3331370103b91c4a3bd925fbc3d9b6c689d9b0e4a7e88c2872c28144649da198",
+    "first_timestamp": "2024-05-10T00:00:00.009930+00:00",
+    "window_start": "2024-05-10T00:00:00+00:00",
+    "window_end_exclusive": "2024-05-10T08:00:00+00:00",
+    "retained_requests": 426276,
+    "edge_requests_excluded": 0,
+    "zero_traffic_minutes": 0,
+    "minutes_retained": 480,
+    "release": "2024",
+    "retained_input_tokens": 1047428883,
+    "retained_output_tokens": 10748429
+  }
+}
