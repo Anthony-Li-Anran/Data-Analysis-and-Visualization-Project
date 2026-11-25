@@ -1,0 +1,22 @@
+﻿site,auto_stage,manual_stage,coarse_agree,fine_agree,plan_h100e,obs_span_months,reason
+OpenAI Stargate New Mexico,在建（土建阶段）,在建（土建阶段）,True,True,5103587.670540676,8.7,土方与场地平整完成、多块建筑垫层，主体结构在建
+OpenAI Stargate Shackelford,在建（土建阶段）,在建（机电安装）,True,False,4562910.560889338,13.1,1-5 栋主体壳完成且全部封顶，正在装冷却与备用发电机
+Meta Hyperion,在建（土建阶段）,在建（机电安装）,True,False,4142944.416371905,15.9,1-2 栋屋面完工，冷却安装已到后期；3、6 栋屋面与冷却在建
+QTS Cedar Rapids,在建（土建阶段）,在建（机电安装）,True,False,3668823.12124194,15.6,1-3 栋主体壳已完成，仅 7 号楼地基在建
+Google Fort Wayne,在建（土建阶段）,在建（机电安装）,True,False,2940879.2319353214,28.6,2 号楼冷却塔全部装好，进入内装与调试，估计约 3 个月后运营
+OpenAI Stargate Michigan,在建（土建阶段）,在建（土建阶段）,True,True,2880242.5467407783,3.2,仅见 1 号楼地基土方
+OpenAI Stargate Wisconsin,在建（土建阶段）,在建（土建阶段）,True,True,2627589.691763517,6.7,1-2 栋封顶过半、3 号楼地基过半
+OpenAI Stargate Milam,在建（土建阶段）,在建（土建阶段）,True,True,2496210.207175341,5.8,1 号楼钢结构与屋面施工中
+Goodnight,在建（土建阶段）,在建（机电安装）,True,False,2278928.7518948964,10.9,各栋推进，1-2 栋已开始安装冷却设备
+OpenAI Stargate UAE,在建（土建阶段）,在建（土建阶段）,True,True,2021222.83981809,5.3,1-2 栋部分建成，无更多楼栋开工迹象
+Crusoe Abilene Expansion,前期/土地平整,前期/土地平整,True,True,1707933.2996462858,2.4,状态原文仅有 'Land clearing continues'
+Meta Bowling Green,在建（土建阶段）,在建（土建阶段）,True,True,855159.1712986357,20.9,1-2 栋屋面过半、冷水机组可见；3-4 栋仅放线
+Google Cedar Rapids,在建（土建阶段）,在建（机电安装）,True,False,670136.4325416877,22.0,1 号楼发电机过半、冷却塔在建；2 号楼屋面完成、冷却塔与发电机基础就位
+OpenAI Stargate Lordstown,在建（土建阶段）,在建（土建阶段）,True,True,545730.1667508843,9.6,屋面基本就位，明确写 'No buildings operational yet'
+QTS Eagle Mountain,在建（土建阶段）,在建（机电安装）,True,False,346968.16574027285,31.0,1 号楼屋面完成，冷却与应急发电机安装中
+Anthropic Barber Lake,在建（土建阶段）,在建（机电安装）,True,False,288529.5603840323,10.3,主体壳完成、屋面机组与冷水机组就位、120 台柴发大多就位，尚未通电
+Microsoft Narvik Norway,在建（土建阶段）,在建（机电安装）,True,False,265285.4977261243,36.1,1 号楼冷却基本完工，发电机与 2 号楼冷却持续安装
+CoreWeave Lancaster Greenfield site,在建（土建阶段）,在建（机电安装）,True,False,232945.93228903488,11.9,屋面冷却安装继续，仍有施工车辆与未完工场地
+CoreWeave Muskogee OK,在建（土建阶段）,在建（机电安装）,True,False,198079.8383021728,18.8,1 号楼主体建成，场地收尾、缺停车场，判断未运营
+Envision Galaxy Ulanqab,前期/土地平整,前期/土地平整,True,True,169868.62051541187,13.1,4 号楼刚开始土地平整
+EcoDataCenter 2,在建（土建阶段）,在建（机电安装）,True,False,138912.32945932288,11.5,1-2 栋封顶，冷却与电力设备安装中；3-4 栋刚布基础
