@@ -1,0 +1,178 @@
+﻿csv_row,source_record,designer,start,end,quarter,incomplete,bucket,sku,_merge,status,units,price,source_h100e,source_notes
+2,Q1 2022 - A100,Nvidia,2022-01-01,2022-03-31,2022Q1,False,A100,A100,both,included,212126,12000,66885.0,Estimates generated on: 11-18-2026 14:58
+3,Q2 2022 - A100,Nvidia,2022-04-01,2022-06-30,2022Q2,False,A100,A100,both,included,226679,12000,71474.0,Estimates generated on: 11-18-2026 14:58
+4,Q3 2022 - A100,Nvidia,2022-07-01,2022-09-30,2022Q3,False,A100,A100,both,included,215738,12000,68024.0,Estimates generated on: 11-18-2026 14:58
+5,Q3 2022 - H100/H200,Nvidia,2022-07-01,2022-09-30,2022Q3,False,H100/H200,H100,both,included,6120,25000,6120.0,Estimates generated on: 11-18-2026 14:58
+6,Q4 2022 - TPU v4i,Google,2022-10-01,2022-12-31,2022Q4,True,TPU v4i,TPU v4i,both,source_incomplete,20588,2322,1435.0,Incomplete: based on Broadcom fiscal quarters beginning 10/31/2022. Estimates generated on: 09-30-2026 14:07
+7,Q4 2022 - TPU v4,Google,2022-10-01,2022-12-31,2022Q4,True,TPU v4,TPU v4,both,source_incomplete,66441,3389,9232.0,Incomplete: based on Broadcom fiscal quarters beginning 10/31/2022. Estimates generated on: 09-30-2026 14:07
+8,Q4 2022 - TPU v5e,Google,2022-10-01,2022-12-31,2022Q4,True,TPU v5e,TPU v5e,both,source_incomplete,15678,2704,3113.0,Incomplete: based on Broadcom fiscal quarters beginning 10/31/2022. Estimates generated on: 09-30-2026 14:07
+9,Q4 2022 - A100,Nvidia,2022-10-01,2022-12-31,2022Q4,False,A100,A100,both,included,113702,12000,35851.0,Estimates generated on: 11-18-2026 14:58
+10,Q4 2022 - H100/H200,Nvidia,2022-10-01,2022-12-31,2022Q4,False,H100/H200,H100,both,included,32490,25000,32490.0,Estimates generated on: 11-18-2026 14:58
+11,Q4 2022 - A800,Nvidia,2022-10-01,2022-12-31,2022Q4,False,A800,A800,both,included,28097,12000,8859.0,Estimates generated on: 11-18-2026 14:58
+12,Q1 2023 - TPU v4i,Google,2023-01-01,2023-03-31,2023Q1,False,TPU v4i,TPU v4i,both,outside_nvidia_sample,9629,2322,671.0,Estimates generated on: 09-30-2026 14:07
+13,Q1 2023 - TPU v4,Google,2023-01-01,2023-03-31,2023Q1,False,TPU v4,TPU v4,both,outside_nvidia_sample,119390,3389,16590.0,Estimates generated on: 09-30-2026 14:07
+14,Q1 2023 - TPU v5e,Google,2023-01-01,2023-03-31,2023Q1,False,TPU v5e,TPU v5e,both,outside_nvidia_sample,39145,2704,7773.0,Estimates generated on: 09-30-2026 14:07
+15,Q1 2023 - A100,Nvidia,2023-01-01,2023-03-31,2023Q1,False,A100,A100,both,included,59025,12000,18611.0,Estimates generated on: 11-18-2026 14:58
+16,Q1 2023 - H100/H200,Nvidia,2023-01-01,2023-03-31,2023Q1,False,H100/H200,H100,both,included,56656,25000,56656.0,Estimates generated on: 11-18-2026 14:58
+17,Q1 2023 - A800,Nvidia,2023-01-01,2023-03-31,2023Q1,False,A800,A800,both,included,29269,12000,9228.0,Estimates generated on: 11-18-2026 14:58
+18,Q1 2023 - H800,Nvidia,2023-01-01,2023-03-31,2023Q1,False,H800,H800,both,included,7348,30000,7348.0,Estimates generated on: 11-18-2026 14:58
+19,Q2 2023 - TPU v4,Google,2023-04-01,2023-06-30,2023Q2,False,TPU v4,TPU v4,both,outside_nvidia_sample,66214,3389,9201.0,Estimates generated on: 09-30-2026 14:07
+20,Q2 2023 - TPU v5e,Google,2023-04-01,2023-06-30,2023Q2,False,TPU v5e,TPU v5e,both,outside_nvidia_sample,120570,2704,23943.0,Estimates generated on: 09-30-2026 14:07
+21,Q2 2023 - A100,Nvidia,2023-04-01,2023-06-30,2023Q2,False,A100,A100,both,included,64510,12000,20340.0,Estimates generated on: 11-18-2026 14:58
+22,Q2 2023 - H100/H200,Nvidia,2023-04-01,2023-06-30,2023Q2,False,H100/H200,H100,both,included,151456,25000,151456.0,Estimates generated on: 11-18-2026 14:58
+23,Q2 2023 - A800,Nvidia,2023-04-01,2023-06-30,2023Q2,False,A800,A800,both,included,26353,12000,8309.0,Estimates generated on: 11-18-2026 14:58
+24,Q2 2023 - H800,Nvidia,2023-04-01,2023-06-30,2023Q2,False,H800,H800,both,included,31942,30000,31942.0,Estimates generated on: 11-18-2026 14:58
+25,Q3 2023 - TPU v4,Google,2023-07-01,2023-09-30,2023Q3,False,TPU v4,TPU v4,both,outside_nvidia_sample,11204,3389,1556.0,Estimates generated on: 09-30-2026 14:07
+26,Q3 2023 - TPU v5e,Google,2023-07-01,2023-09-30,2023Q3,False,TPU v5e,TPU v5e,both,outside_nvidia_sample,250296,2704,49705.0,Estimates generated on: 09-30-2026 14:07
+27,Q3 2023 - A100,Nvidia,2023-07-01,2023-09-30,2023Q3,False,A100,A100,both,included,54954,12000,17327.0,Estimates generated on: 11-18-2026 14:58
+28,Q3 2023 - H100/H200,Nvidia,2023-07-01,2023-09-30,2023Q3,False,H100/H200,H100,both,included,260162,25000,260162.0,Estimates generated on: 11-18-2026 14:58
+29,Q3 2023 - A800,Nvidia,2023-07-01,2023-09-30,2023Q3,False,A800,A800,both,included,28469,12000,8976.0,Estimates generated on: 11-18-2026 14:58
+30,Q3 2023 - H800,Nvidia,2023-07-01,2023-09-30,2023Q3,False,H800,H800,both,included,56380,30000,56380.0,Estimates generated on: 11-18-2026 14:58
+31,Q4 2023 - TPU v5e,Google,2023-10-01,2023-12-31,2023Q4,False,TPU v5e,TPU v5e,both,outside_nvidia_sample,388749,2704,77199.0,Estimates generated on: 09-30-2026 14:07
+32,Q4 2023 - TPU v5p,Google,2023-10-01,2023-12-31,2023Q4,False,TPU v5p,TPU v5p,both,outside_nvidia_sample,14428,6022,6693.0,Estimates generated on: 09-30-2026 14:07
+33,Q4 2023 - A100,Nvidia,2023-10-01,2023-12-31,2023Q4,False,A100,A100,both,included,15118,12000,4766.0,Estimates generated on: 11-18-2026 14:58
+34,Q4 2023 - H100/H200,Nvidia,2023-10-01,2023-12-31,2023Q4,False,H100/H200,H100,both,included,423633,25000,423633.0,Estimates generated on: 11-18-2026 14:58
+35,Q4 2023 - A800,Nvidia,2023-10-01,2023-12-31,2023Q4,False,A800,A800,both,included,9078,12000,2862.0,Estimates generated on: 11-18-2026 14:58
+36,Q4 2023 - H800,Nvidia,2023-10-01,2023-12-31,2023Q4,False,H800,H800,both,included,19854,30000,19854.0,Estimates generated on: 11-18-2026 14:58
+37,Q1 2024 - TPU v5e,Google,2024-01-01,2024-03-31,2024Q1,False,TPU v5e,TPU v5e,both,outside_nvidia_sample,417187,2704,82847.0,Estimates generated on: 09-30-2026 14:07
+38,Q1 2024 - TPU v5p,Google,2024-01-01,2024-03-31,2024Q1,False,TPU v5p,TPU v5p,both,outside_nvidia_sample,83355,6022,38666.0,Estimates generated on: 09-30-2026 14:07
+39,Q1 2024 - H100/H200,Nvidia,2024-01-01,2024-03-31,2024Q1,False,H100/H200,H100,both,included,552408,25000,552408.0,Estimates generated on: 11-18-2026 14:58
+40,Q1 2024 - H20,Nvidia,2024-01-01,2024-03-31,2024Q1,False,H20,H20,both,included,138657,12000,20738.0,Estimates generated on: 11-18-2026 14:58
+41,FY24 Q1 - MI250X,AMD,2024-01-01,2024-03-31,2024Q1,False,MI250X,Instinct MI250X,both,outside_nvidia_sample,30379,10000,5879.0,Estimates generated on: 08-27-2026 16:14
+42,FY24 Q1 - MI300X,AMD,2024-01-01,2024-03-31,2024Q1,False,MI300X,Instinct MI300X,both,outside_nvidia_sample,34535,12500,45632.0,Estimates generated on: 08-27-2026 16:14
+43,FY24 Q1 - MI300A,AMD,2024-01-01,2024-03-31,2024Q1,False,MI300A,Instinct MI300A,both,outside_nvidia_sample,3562,6700,3530.0,Estimates generated on: 08-27-2026 16:14
+44,Q1 2024 Ascend 910B,Huawei,2024-01-01,2024-03-31,2024Q1,False,Ascend 910B,Ascend 910B,both,outside_nvidia_sample,100000,15000,35378.75,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+45,Q1 2024 Ascend 910C,Huawei,2024-01-01,2024-03-31,2024Q1,False,Ascend 910C,Ascend 910C,both,outside_nvidia_sample,12500,20000,9649.0,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+46,Q1 2024 - Trainium1,Amazon,2024-01-01,2024-03-31,2024Q1,False,Trainium1,Trainium1,both,outside_nvidia_sample,110000,0,23345.0,Estimates generated on: 10-14-2026 14:34
+47,Q1 2024 - Trainium2,Amazon,2024-01-01,2024-03-31,2024Q1,False,Trainium2,Trainium2,both,outside_nvidia_sample,15000,4000,9845.0,Estimates generated on: 10-14-2026 14:34
+48,2024 Q1 - Siyuan 590,Cambricon,2024-01-01,2024-03-31,2024Q1,False,Siyuan 590,Siyuan 590,both,outside_nvidia_sample,547,0,142.0,Cambricon methodology: https://docs.google.com/document/d/1LmVwqNAxL33wipBo7boVf5TRJusubmiLmACy2m0E2ew/edit?usp=sharing; quarterly allocation proportional to reported quarterly revenue
+49,Q2 2024 - TPU v5e,Google,2024-04-01,2024-06-30,2024Q2,False,TPU v5e,TPU v5e,both,outside_nvidia_sample,374471,2704,74364.0,Estimates generated on: 09-30-2026 14:07
+50,Q2 2024 - TPU v5p,Google,2024-04-01,2024-06-30,2024Q2,False,TPU v5p,TPU v5p,both,outside_nvidia_sample,144145,6022,66864.0,Estimates generated on: 09-30-2026 14:07
+51,Q2 2024 - H100/H200,Nvidia,2024-04-01,2024-06-30,2024Q2,False,H100/H200,H100,both,included,651058,25000,651058.0,Estimates generated on: 11-18-2026 14:58
+52,Q2 2024 - H20,Nvidia,2024-04-01,2024-06-30,2024Q2,False,H20,H20,both,included,222964,12000,33348.0,Estimates generated on: 11-18-2026 14:58
+53,FY24 Q2 - MI250X,AMD,2024-04-01,2024-06-30,2024Q2,False,MI250X,Instinct MI250X,both,outside_nvidia_sample,6596,10000,1276.0,Estimates generated on: 08-27-2026 16:14
+54,FY24 Q2 - MI300X,AMD,2024-04-01,2024-06-30,2024Q2,False,MI300X,Instinct MI300X,both,outside_nvidia_sample,80709,12500,106642.0,Estimates generated on: 08-27-2026 16:14
+55,FY24 Q2 - MI300A,AMD,2024-04-01,2024-06-30,2024Q2,False,MI300A,Instinct MI300A,both,outside_nvidia_sample,10732,6700,10635.0,Estimates generated on: 08-27-2026 16:14
+56,Q2 2024 Ascend 910B,Huawei,2024-04-01,2024-06-30,2024Q2,False,Ascend 910B,Ascend 910B,both,outside_nvidia_sample,100000,15000,35378.75,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+57,Q2 2024 Ascend 910C,Huawei,2024-04-01,2024-06-30,2024Q2,False,Ascend 910C,Ascend 910C,both,outside_nvidia_sample,12500,20000,9649.0,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+58,Q2 2024 - Trainium1,Amazon,2024-04-01,2024-06-30,2024Q2,False,Trainium1,Trainium1,both,outside_nvidia_sample,110000,0,23345.0,Estimates generated on: 10-14-2026 14:34
+59,Q2 2024 - Trainium2,Amazon,2024-04-01,2024-06-30,2024Q2,False,Trainium2,Trainium2,both,outside_nvidia_sample,30000,4000,19691.0,Estimates generated on: 10-14-2026 14:34
+60,2024 Q2 - Siyuan 590,Cambricon,2024-04-01,2024-06-30,2024Q2,False,Siyuan 590,Siyuan 590,both,outside_nvidia_sample,832,0,215.0,Cambricon methodology: https://docs.google.com/document/d/1LmVwqNAxL33wipBo7boVf5TRJusubmiLmACy2m0E2ew/edit?usp=sharing; quarterly allocation proportional to reported quarterly revenue
+61,Q3 2024 - TPU v5e,Google,2024-07-01,2024-09-30,2024Q3,False,TPU v5e,TPU v5e,both,outside_nvidia_sample,356808,2704,70856.0,Estimates generated on: 09-30-2026 14:07
+62,Q3 2024 - TPU v5p,Google,2024-07-01,2024-09-30,2024Q3,False,TPU v5p,TPU v5p,both,outside_nvidia_sample,159613,6022,74040.0,Estimates generated on: 09-30-2026 14:07
+63,Q3 2024 - TPU v6e,Google,2024-07-01,2024-09-30,2024Q3,False,TPU v6e,TPU v6e,both,outside_nvidia_sample,40715,4059,37773.0,Estimates generated on: 09-30-2026 14:07
+64,Q3 2024 - H100/H200,Nvidia,2024-07-01,2024-09-30,2024Q3,False,H100/H200,H100,both,included,794608,25000,794608.0,Estimates generated on: 11-18-2026 14:58
+65,Q3 2024 - H20,Nvidia,2024-07-01,2024-09-30,2024Q3,False,H20,H20,both,included,272125,12000,40701.0,Estimates generated on: 11-18-2026 14:58
+66,FY24 Q3 - MI250X,AMD,2024-07-01,2024-09-30,2024Q3,False,MI250X,Instinct MI250X,both,outside_nvidia_sample,4385,10000,848.0,Estimates generated on: 08-27-2026 16:14
+67,FY24 Q3 - MI300X,AMD,2024-07-01,2024-09-30,2024Q3,False,MI300X,Instinct MI300X,both,outside_nvidia_sample,95258,12500,125866.0,Estimates generated on: 08-27-2026 16:14
+68,FY24 Q3 - MI300A,AMD,2024-07-01,2024-09-30,2024Q3,False,MI300A,Instinct MI300A,both,outside_nvidia_sample,43161,6700,42773.0,Estimates generated on: 08-27-2026 16:14
+69,Q3 2024 Ascend 910B,Huawei,2024-07-01,2024-09-30,2024Q3,False,Ascend 910B,Ascend 910B,both,outside_nvidia_sample,100000,15000,35378.75,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+70,Q3 2024 Ascend 910C,Huawei,2024-07-01,2024-09-30,2024Q3,False,Ascend 910C,Ascend 910C,both,outside_nvidia_sample,12500,20000,9649.0,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+71,Q3 2024 - Trainium1,Amazon,2024-07-01,2024-09-30,2024Q3,False,Trainium1,Trainium1,both,outside_nvidia_sample,110000,0,23345.0,Estimates generated on: 10-14-2026 14:34
+72,Q3 2024 - Trainium2,Amazon,2024-07-01,2024-09-30,2024Q3,False,Trainium2,Trainium2,both,outside_nvidia_sample,80000,4000,52511.0,Estimates generated on: 10-14-2026 14:34
+73,2024 Q3 - Siyuan 590,Cambricon,2024-07-01,2024-09-30,2024Q3,False,Siyuan 590,Siyuan 590,both,outside_nvidia_sample,2565,0,664.0,Cambricon methodology: https://docs.google.com/document/d/1LmVwqNAxL33wipBo7boVf5TRJusubmiLmACy2m0E2ew/edit?usp=sharing; quarterly allocation proportional to reported quarterly revenue
+74,Q4 2024 - TPU v5e,Google,2024-10-01,2024-12-31,2024Q4,False,TPU v5e,TPU v5e,both,outside_nvidia_sample,300383,2704,59651.0,Estimates generated on: 09-30-2026 14:07
+75,Q4 2024 - TPU v5p,Google,2024-10-01,2024-12-31,2024Q4,False,TPU v5p,TPU v5p,both,outside_nvidia_sample,134088,6022,62199.0,Estimates generated on: 09-30-2026 14:07
+76,Q4 2024 - TPU v6e,Google,2024-10-01,2024-12-31,2024Q4,False,TPU v6e,TPU v6e,both,outside_nvidia_sample,174092,4059,161512.0,Estimates generated on: 09-30-2026 14:07
+77,Q4 2024 - H100/H200,Nvidia,2024-10-01,2024-12-31,2024Q4,False,H100/H200,H100,both,included,681298,25000,681298.0,Estimates generated on: 11-18-2026 14:58
+78,Q4 2024 - H20,Nvidia,2024-10-01,2024-12-31,2024Q4,False,H20,H20,both,included,324235,12000,48495.0,Estimates generated on: 11-18-2026 14:58
+79,Q4 2024 - B200,Nvidia,2024-10-01,2024-12-31,2024Q4,False,B200,B200,both,included,200882,37000,507534.0,Estimates generated on: 11-18-2026 14:58
+80,FY24 Q4 - MI250X,AMD,2024-10-01,2024-12-31,2024Q4,False,MI250X,Instinct MI250X,both,outside_nvidia_sample,3566,10000,690.0,Estimates generated on: 08-27-2026 16:14
+81,FY24 Q4 - MI300X,AMD,2024-10-01,2024-12-31,2024Q4,False,MI300X,Instinct MI300X,both,outside_nvidia_sample,115619,12500,152770.0,Estimates generated on: 08-27-2026 16:14
+82,FY24 Q4 - MI300A,AMD,2024-10-01,2024-12-31,2024Q4,False,MI300A,Instinct MI300A,both,outside_nvidia_sample,52349,6700,51878.0,Estimates generated on: 08-27-2026 16:14
+83,Q4 2024 Ascend 910B,Huawei,2024-10-01,2024-12-31,2024Q4,False,Ascend 910B,Ascend 910B,both,outside_nvidia_sample,100000,15000,35378.75,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+84,Q4 2024 Ascend 910C,Huawei,2024-10-01,2024-12-31,2024Q4,False,Ascend 910C,Ascend 910C,both,outside_nvidia_sample,12500,20000,9649.0,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+85,Q4 2024 - Trainium1,Amazon,2024-10-01,2024-12-31,2024Q4,False,Trainium1,Trainium1,both,outside_nvidia_sample,110000,0,23345.0,Estimates generated on: 10-14-2026 14:34
+86,Q4 2024 - Trainium2,Amazon,2024-10-01,2024-12-31,2024Q4,False,Trainium2,Trainium2,both,outside_nvidia_sample,190000,4000,124714.0,Estimates generated on: 10-14-2026 14:34
+87,2024 Q4 - Siyuan 590,Cambricon,2024-10-01,2024-12-31,2024Q4,False,Siyuan 590,Siyuan 590,both,outside_nvidia_sample,21056,0,5447.0,Cambricon methodology: https://docs.google.com/document/d/1LmVwqNAxL33wipBo7boVf5TRJusubmiLmACy2m0E2ew/edit?usp=sharing; quarterly allocation proportional to reported quarterly revenue
+88,Q1 2025 - TPU v5e,Google,2025-01-01,2025-03-31,2025Q1,False,TPU v5e,TPU v5e,both,outside_nvidia_sample,95723,2704,19009.0,Estimates generated on: 09-30-2026 14:07
+89,Q1 2025 - TPU v5p,Google,2025-01-01,2025-03-31,2025Q1,False,TPU v5p,TPU v5p,both,outside_nvidia_sample,95134,6022,44130.0,Estimates generated on: 09-30-2026 14:07
+90,Q1 2025 - TPU v6e,Google,2025-01-01,2025-03-31,2025Q1,False,TPU v6e,TPU v6e,both,outside_nvidia_sample,407148,4059,377728.0,Estimates generated on: 09-30-2026 14:07
+91,Q1 2025 - H100/H200,Nvidia,2025-01-01,2025-03-31,2025Q1,False,H100/H200,H100,both,included,329112,25000,329112.0,Estimates generated on: 11-18-2026 14:58
+92,Q1 2025 - H20,Nvidia,2025-01-01,2025-03-31,2025Q1,False,H20,H20,both,included,361515,12000,54071.0,Estimates generated on: 11-18-2026 14:58
+93,Q1 2025 - B200,Nvidia,2025-01-01,2025-03-31,2025Q1,False,B200,B200,both,included,520007,37000,1313812.0,Estimates generated on: 11-18-2026 14:58
+94,FY25 Q1 - MI300X,AMD,2025-01-01,2025-03-31,2025Q1,False,MI300X,Instinct MI300X,both,outside_nvidia_sample,85464,12500,112925.0,Estimates generated on: 08-27-2026 16:14
+95,FY25 Q1 - MI300A,AMD,2025-01-01,2025-03-31,2025Q1,False,MI300A,Instinct MI300A,both,outside_nvidia_sample,4642,6700,4600.0,Estimates generated on: 08-27-2026 16:14
+96,FY25 Q1 - MI325X,AMD,2025-01-01,2025-03-31,2025Q1,False,MI325X,Instinct MI325X,both,outside_nvidia_sample,32505,15000,42704.0,Estimates generated on: 08-27-2026 16:14
+97,Q1 2025 Ascend 910B,Huawei,2025-01-01,2025-03-31,2025Q1,False,Ascend 910B,Ascend 910B,both,outside_nvidia_sample,50000,15000,16816.5,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+98,Q1 2025 Ascend 910C,Huawei,2025-01-01,2025-03-31,2025Q1,False,Ascend 910C,Ascend 910C,both,outside_nvidia_sample,150000,20000,115147.25,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+99,Q1 2025 - Trainium2,Amazon,2025-01-01,2025-03-31,2025Q1,False,Trainium2,Trainium2,both,outside_nvidia_sample,210000,4000,137842.0,Estimates generated on: 10-14-2026 14:34
+100,2025 Q1 - Siyuan 590,Cambricon,2025-01-01,2025-03-31,2025Q1,False,Siyuan 590,Siyuan 590,both,outside_nvidia_sample,18817,0,4869.0,Cambricon methodology: https://docs.google.com/document/d/1LmVwqNAxL33wipBo7boVf5TRJusubmiLmACy2m0E2ew/edit?usp=sharing; quarterly allocation proportional to reported quarterly revenue
+101,Q2 2025 - TPU v5p,Google,2025-04-01,2025-06-30,2025Q2,False,TPU v5p,TPU v5p,both,outside_nvidia_sample,31271,6022,14505.0,Estimates generated on: 09-30-2026 14:07
+102,Q2 2025 - TPU v6e,Google,2025-04-01,2025-06-30,2025Q2,False,TPU v6e,TPU v6e,both,outside_nvidia_sample,663134,4059,615217.0,Estimates generated on: 09-30-2026 14:07
+103,Q2 2025 - H100/H200,Nvidia,2025-04-01,2025-06-30,2025Q2,False,H100/H200,H100,both,included,228772,25000,228772.0,Estimates generated on: 11-18-2026 14:58
+104,Q2 2025 - H20,Nvidia,2025-04-01,2025-06-30,2025Q2,False,H20,H20,both,included,152624,12000,22828.0,Estimates generated on: 11-18-2026 14:58
+105,Q2 2025 - B200,Nvidia,2025-04-01,2025-06-30,2025Q2,False,B200,B200,both,included,434796,37000,1098524.0,Estimates generated on: 11-18-2026 14:58
+106,Q2 2025 - B300,Nvidia,2025-04-01,2025-06-30,2025Q2,False,B300,B300,both,included,215248,43000,543830.0,Estimates generated on: 11-18-2026 14:58
+107,FY25 Q2 - MI300X,AMD,2025-04-01,2025-06-30,2025Q2,False,MI300X,Instinct MI300X,both,outside_nvidia_sample,45976,12500,60749.0,Estimates generated on: 08-27-2026 16:14
+108,FY25 Q2 - MI325X,AMD,2025-04-01,2025-06-30,2025Q2,False,MI325X,Instinct MI325X,both,outside_nvidia_sample,26391,15000,34673.0,Estimates generated on: 08-27-2026 16:14
+109,FY25 Q2 - MI350X,AMD,2025-04-01,2025-06-30,2025Q2,False,MI350X,Instinct MI350X,both,outside_nvidia_sample,4080,23500,9513.0,Estimates generated on: 08-27-2026 16:14
+110,Q2 2025 Ascend 910B,Huawei,2025-04-01,2025-06-30,2025Q2,False,Ascend 910B,Ascend 910B,both,outside_nvidia_sample,50000,15000,16816.5,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+111,Q2 2025 Ascend 910C,Huawei,2025-04-01,2025-06-30,2025Q2,False,Ascend 910C,Ascend 910C,both,outside_nvidia_sample,150000,20000,115147.25,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+112,Q2 2025 - Trainium2,Amazon,2025-04-01,2025-06-30,2025Q2,False,Trainium2,Trainium2,both,outside_nvidia_sample,245000,4000,160816.0,Estimates generated on: 10-14-2026 14:34
+113,2025 Q2 - Siyuan 590,Cambricon,2025-04-01,2025-06-30,2025Q2,False,Siyuan 590,Siyuan 590,both,outside_nvidia_sample,29953,0,7749.0,Cambricon methodology: https://docs.google.com/document/d/1LmVwqNAxL33wipBo7boVf5TRJusubmiLmACy2m0E2ew/edit?usp=sharing; quarterly allocation proportional to reported quarterly revenue
+114,Q3 2025 - TPU v6e,Google,2025-07-01,2025-09-30,2025Q3,False,TPU v6e,TPU v6e,both,outside_nvidia_sample,734300,4059,681240.0,Estimates generated on: 09-30-2026 14:07
+115,Q3 2025 - TPU v7,Google,2025-07-01,2025-09-30,2025Q3,False,TPU v7,TPU v7,both,outside_nvidia_sample,51286,11737,119573.0,Estimates generated on: 09-30-2026 14:07
+116,Q3 2025 - H100/H200,Nvidia,2025-07-01,2025-09-30,2025Q3,False,H100/H200,H100,both,included,127343,25000,127343.0,Estimates generated on: 11-18-2026 14:58
+117,Q3 2025 - H20,Nvidia,2025-07-01,2025-09-30,2025Q3,False,H20,H20,both,included,17109,12000,2559.0,Estimates generated on: 11-18-2026 14:58
+118,Q3 2025 - B200,Nvidia,2025-07-01,2025-09-30,2025Q3,False,B200,B200,both,included,346338,37000,875032.0,Estimates generated on: 11-18-2026 14:58
+119,Q3 2025 - B300,Nvidia,2025-07-01,2025-09-30,2025Q3,False,B300,B300,both,included,541916,43000,1369166.0,Estimates generated on: 11-18-2026 14:58
+120,FY25 Q3 - MI300X,AMD,2025-07-01,2025-09-30,2025Q3,False,MI300X,Instinct MI300X,both,outside_nvidia_sample,45934,12500,60694.0,Estimates generated on: 08-27-2026 16:14
+121,FY25 Q3 - MI325X,AMD,2025-07-01,2025-09-30,2025Q3,False,MI325X,Instinct MI325X,both,outside_nvidia_sample,19634,15000,25796.0,Estimates generated on: 08-27-2026 16:14
+122,FY25 Q3 - MI350X,AMD,2025-07-01,2025-09-30,2025Q3,False,MI350X,Instinct MI350X,both,outside_nvidia_sample,36199,23500,84397.0,Estimates generated on: 08-27-2026 16:14
+123,FY25 Q3 - MI355X,AMD,2025-07-01,2025-09-30,2025Q3,False,MI355X,Instinct MI355X,both,outside_nvidia_sample,12411,27500,31566.0,Estimates generated on: 08-27-2026 16:14
+124,Q3 2025 Ascend 910B,Huawei,2025-07-01,2025-09-30,2025Q3,False,Ascend 910B,Ascend 910B,both,outside_nvidia_sample,50000,15000,16816.5,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+125,Q3 2025 Ascend 910C,Huawei,2025-07-01,2025-09-30,2025Q3,False,Ascend 910C,Ascend 910C,both,outside_nvidia_sample,150000,20000,115147.25,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+126,Q3 2025 - Trainium2,Amazon,2025-07-01,2025-09-30,2025Q3,False,Trainium2,Trainium2,both,outside_nvidia_sample,285000,4000,187071.0,Estimates generated on: 10-14-2026 14:34
+127,2025 Q3 - Siyuan 590,Cambricon,2025-07-01,2025-09-30,2025Q3,False,Siyuan 590,Siyuan 590,both,outside_nvidia_sample,29235,0,7563.0,Cambricon methodology: https://docs.google.com/document/d/1LmVwqNAxL33wipBo7boVf5TRJusubmiLmACy2m0E2ew/edit?usp=sharing; quarterly allocation proportional to reported quarterly revenue
+128,Q4 2025 - TPU v6e,Google,2025-10-01,2025-12-31,2025Q4,False,TPU v6e,TPU v6e,both,outside_nvidia_sample,408357,4059,378850.0,Estimates generated on: 09-30-2026 14:07
+129,Q4 2025 - TPU v7,Google,2025-10-01,2025-12-31,2025Q4,False,TPU v7,TPU v7,both,outside_nvidia_sample,212828,11737,496205.0,Estimates generated on: 09-30-2026 14:07
+130,Q4 2025 - H100/H200,Nvidia,2025-10-01,2025-12-31,2025Q4,False,H100/H200,H100,both,included,23391,25000,23391.0,Estimates generated on: 11-18-2026 14:58
+131,Q4 2025 - B200,Nvidia,2025-10-01,2025-12-31,2025Q4,False,B200,B200,both,included,417922,37000,1055891.0,Estimates generated on: 11-18-2026 14:58
+132,Q4 2025 - B300,Nvidia,2025-10-01,2025-12-31,2025Q4,False,B300,B300,both,included,743918,43000,1879530.0,Estimates generated on: 11-18-2026 14:58
+133,FY25 Q4 - MI300X,AMD,2025-10-01,2025-12-31,2025Q4,False,MI300X,Instinct MI300X,both,outside_nvidia_sample,11197,12500,14795.0,Estimates generated on: 08-27-2026 16:14
+134,"FY25 Q4 - MI325X
+",AMD,2025-10-01,2025-12-31,2025Q4,False,MI325X,Instinct MI325X,both,outside_nvidia_sample,12777,15000,16786.0,Estimates generated on: 08-27-2026 16:14
+135,FY25 Q4 - MI350X,AMD,2025-10-01,2025-12-31,2025Q4,False,MI350X,Instinct MI350X,both,outside_nvidia_sample,35183,23500,82028.0,Estimates generated on: 08-27-2026 16:14
+136,FY25 Q4 - MI355X,AMD,2025-10-01,2025-12-31,2025Q4,False,MI355X,Instinct MI355X,both,outside_nvidia_sample,37063,27500,94263.0,Estimates generated on: 08-27-2026 16:14
+137,Q4 2025 Ascend 910B,Huawei,2025-10-01,2025-12-31,2025Q4,False,Ascend 910B,Ascend 910B,both,outside_nvidia_sample,50000,15000,16816.5,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+138,Q4 2025 Ascend 910C,Huawei,2025-10-01,2025-12-31,2025Q4,False,Ascend 910C,Ascend 910C,both,outside_nvidia_sample,150000,20000,115147.25,Confidence intervals in units are relatively unprincipled due to lack of revenue model. Don't take them too literally. H100e conversion incorporates some uncertainty over average chip specifications. See methodology
+139,Q4 2025 - Trainium2,Amazon,2025-10-01,2025-12-31,2025Q4,False,Trainium2,Trainium2,both,outside_nvidia_sample,335000,4000,219891.0,Estimates generated on: 10-14-2026 14:34
+140,FY25 Q4 - MI308X,AMD,2025-10-01,2025-12-31,2025Q4,False,MI308X,Instinct MI308X,both,outside_nvidia_sample,31783,12000,10498.0,Estimates generated on: 08-27-2026 16:14
+141,2025 Q4 - Siyuan 590,Cambricon,2025-10-01,2025-12-31,2025Q4,False,Siyuan 590,Siyuan 590,both,outside_nvidia_sample,31995,0,8277.0,Cambricon methodology: https://docs.google.com/document/d/1LmVwqNAxL33wipBo7boVf5TRJusubmiLmACy2m0E2ew/edit?usp=sharing; quarterly allocation proportional to reported quarterly revenue
+142,Q1 2026 - TPU v6e,Google,2026-01-01,2026-03-31,2026Q1,False,TPU v6e,TPU v6e,both,outside_nvidia_sample,155055,4059,143851.0,Estimates generated on: 09-30-2026 14:07
+143,Q1 2026 - TPU v7,Google,2026-01-01,2026-03-31,2026Q1,False,TPU v7,TPU v7,both,outside_nvidia_sample,334346,11737,779523.0,Estimates generated on: 09-30-2026 14:07
+144,Q1 2026 - B200,Nvidia,2026-01-01,2026-03-31,2026Q1,False,B200,B200,both,included,347540,37000,878069.0,Estimates generated on: 11-18-2026 14:58
+145,Q1 2026 - B300,Nvidia,2026-01-01,2026-03-31,2026Q1,False,B300,B300,both,included,993133,43000,2509178.0,Estimates generated on: 11-18-2026 14:58
+146,FY26 Q1 - MI300X,AMD,2026-01-01,2026-03-31,2026Q1,False,MI300X,Instinct MI300X,both,outside_nvidia_sample,15390,12500,20335.0,Estimates generated on: 08-27-2026 16:14
+147,FY26 Q1 - MI325X,AMD,2026-01-01,2026-03-31,2026Q1,False,MI325X,Instinct MI325X,both,outside_nvidia_sample,13088,15000,17196.0,Estimates generated on: 08-27-2026 16:14
+148,FY26 Q1 - MI350X,AMD,2026-01-01,2026-03-31,2026Q1,False,MI350X,Instinct MI350X,both,outside_nvidia_sample,32185,23500,75040.0,Estimates generated on: 08-27-2026 16:14
+149,FY26 Q1 - MI355X,AMD,2026-01-01,2026-03-31,2026Q1,False,MI355X,Instinct MI355X,both,outside_nvidia_sample,45994,27500,116978.0,Estimates generated on: 08-27-2026 16:14
+150,Q1 2026 Ascend 910C,Huawei,2026-01-01,2026-03-31,2026Q1,False,Ascend 910C,Ascend 910C,both,outside_nvidia_sample,256783,20000,202416.0,Estimates generated on: 10-01-2026 17:15; H1 2026 update. See methodology: https://docs.google.com/document/d/1nPlAAB0HioI9LSk6u-LGEnVBvSAoc50MGXmMxOLv0fk/edit?usp=sharing
+151,Q1 2026 - Trainium2,Amazon,2026-01-01,2026-03-31,2026Q1,False,Trainium2,Trainium2,both,outside_nvidia_sample,345000,4000,226455.0,Estimates generated on: 10-14-2026 14:34
+152,2026 Q1 - Siyuan 590,Cambricon,2026-01-01,2026-03-31,2026Q1,False,Siyuan 590,Siyuan 590,both,outside_nvidia_sample,47922,0,12398.0,Estimates generated on: 10-01-2026 17:15; Cambricon methodology: https://docs.google.com/document/d/1LmVwqNAxL33wipBo7boVf5TRJusubmiLmACy2m0E2ew/edit?usp=sharing; units from reported quarterly revenue and gross margin over estimated cost per chip
+153,Q2 2026 - TPU v6e,Google,2026-04-01,2026-06-30,2026Q2,False,TPU v6e,TPU v6e,both,outside_nvidia_sample,41792,4059,38772.0,Estimates generated on: 09-30-2026 14:07
+154,Q2 2026 - TPU v7,Google,2026-04-01,2026-06-30,2026Q2,False,TPU v7,TPU v7,both,outside_nvidia_sample,616658,11737,1437727.0,Estimates generated on: 09-30-2026 14:07
+155,Q2 2026 - H100/H200,Nvidia,2026-04-01,2026-06-30,2026Q2,False,H100/H200,H100,both,included,19361,25000,19361.0,Estimates generated on: 11-18-2026 14:58
+156,Q2 2026 - B200,Nvidia,2026-04-01,2026-06-30,2026Q2,False,B200,B200,both,included,223383,37000,564383.0,Estimates generated on: 11-18-2026 14:58
+157,Q2 2026 - B300,Nvidia,2026-04-01,2026-06-30,2026Q2,False,B300,B300,both,included,1334389,43000,3371371.0,Estimates generated on: 11-18-2026 14:58
+158,FY26 Q2 - MI300X,AMD,2026-04-01,2026-06-30,2026Q2,False,MI300X,Instinct MI300X,both,outside_nvidia_sample,16865,12500,22284.0,Estimates generated on: 08-27-2026 16:14
+159,FY26 Q2 - MI325X,AMD,2026-04-01,2026-06-30,2026Q2,False,MI325X,Instinct MI325X,both,outside_nvidia_sample,14237,15000,18705.0,Estimates generated on: 08-27-2026 16:14
+160,FY26 Q2 - MI350X,AMD,2026-04-01,2026-06-30,2026Q2,False,MI350X,Instinct MI350X,both,outside_nvidia_sample,23351,23500,54442.0,Estimates generated on: 08-27-2026 16:14
+161,FY26 Q2 - MI355X,AMD,2026-04-01,2026-06-30,2026Q2,False,MI355X,Instinct MI355X,both,outside_nvidia_sample,65068,27500,165489.0,Estimates generated on: 08-27-2026 16:14
+162,Q2 2026 Ascend 910C,Huawei,2026-04-01,2026-06-30,2026Q2,False,Ascend 910C,Ascend 910C,both,outside_nvidia_sample,171188,20000,134944.0,Estimates generated on: 10-01-2026 17:15; H1 2026 update. See methodology: https://docs.google.com/document/d/1nPlAAB0HioI9LSk6u-LGEnVBvSAoc50MGXmMxOLv0fk/edit?usp=sharing
+163,Q2 2026 - Trainium2,Amazon,2026-04-01,2026-06-30,2026Q2,False,Trainium2,Trainium2,both,outside_nvidia_sample,255000,4000,167379.0,Estimates generated on: 10-14-2026 14:34
+164,2026 Q2 - Siyuan 590,Cambricon,2026-04-01,2026-06-30,2026Q2,False,Siyuan 590,Siyuan 590,both,outside_nvidia_sample,47795,0,12365.0,Estimates generated on: 10-01-2026 17:15; Cambricon methodology: https://docs.google.com/document/d/1LmVwqNAxL33wipBo7boVf5TRJusubmiLmACy2m0E2ew/edit?usp=sharing; units from reported quarterly revenue and gross margin over estimated cost per chip
+165,Q2 2026 - TPU v8i,Google,2026-04-01,2026-06-30,2026Q2,False,TPU v8i,TPU v8i,both,outside_nvidia_sample,25654,17500,130928.0,Estimates generated on: 09-30-2026 14:07
+166,Q2 2026 Ascend 950PR,Huawei,2026-04-01,2026-06-30,2026Q2,False,Ascend 950PR,Ascend 950PR,both,outside_nvidia_sample,138000,0,69732.0,Estimates generated on: 10-08-2026 10:46; H1 2026 update. See methodology: https://docs.google.com/document/d/1nPlAAB0HioI9LSk6u-LGEnVBvSAoc50MGXmMxOLv0fk/edit?usp=sharing
+167,Q2 2026 - Trainium3,Amazon,2026-04-01,2026-06-30,2026Q2,False,Trainium3,Trainium3,both,outside_nvidia_sample,95000,0,120826.0,Estimates generated on: 10-14-2026 14:34
+168,Q3 2026 - TPU v7,Google,2026-07-01,2026-09-30,2026Q3,True,TPU v7,TPU v7,both,source_incomplete,274866,11737,640846.0,Incomplete: based on Broadcom fiscal quarters ending 08/02/2026. Estimates generated on: 09-30-2026 14:07
+169,Q3 2026 - H100/H200,Nvidia,2026-07-01,2026-09-30,2026Q3,False,H100/H200,H100,both,included,74310,25000,74310.0,Estimates generated on: 11-18-2026 14:58
+170,Q3 2026 - B200,Nvidia,2026-07-01,2026-09-30,2026Q3,False,B200,B200,both,included,134927,37000,340896.0,Estimates generated on: 11-18-2026 14:58
+171,Q3 2026 - B300,Nvidia,2026-07-01,2026-09-30,2026Q3,False,B300,B300,both,included,1424701,43000,3599547.0,Estimates generated on: 11-18-2026 14:58
+172,Q3 2026 - TPU v8i,Google,2026-07-01,2026-09-30,2026Q3,True,TPU v8i,TPU v8i,both,source_incomplete,14596,17500,74493.0,Incomplete: based on Broadcom fiscal quarters ending 08/02/2026. Estimates generated on: 09-30-2026 14:07
+173,Q3 2026 - R200,Nvidia,2026-07-01,2026-09-30,2026Q3,False,R200,R200,both,included,146477,75000,1295274.0,Estimates generated on: 11-18-2026 14:58
+174,Q4 2026 - H100/H200,Nvidia,2026-10-01,2026-12-31,2026Q4,True,H100/H200,H200,both,source_incomplete,25214,25000,25214.0,Incomplete: based on Nvidia fiscal quarters ending 10/25/2026. Estimates generated on: 11-18-2026 14:58
+175,Q4 2026 - B200,Nvidia,2026-10-01,2026-12-31,2026Q4,True,B200,B200,both,source_incomplete,30946,37000,78185.0,Incomplete: based on Nvidia fiscal quarters ending 10/25/2026. Estimates generated on: 11-18-2026 14:58
+176,Q4 2026 - B300,Nvidia,2026-10-01,2026-12-31,2026Q4,True,B300,B300,both,source_incomplete,384733,43000,972038.0,Incomplete: based on Nvidia fiscal quarters ending 10/25/2026. Estimates generated on: 11-18-2026 14:58
+177,Q4 2026 - R200,Nvidia,2026-10-01,2026-12-31,2026Q4,True,R200,R200,both,source_incomplete,55484,75000,490636.0,Incomplete: based on Nvidia fiscal quarters ending 10/25/2026. Estimates generated on: 11-18-2026 14:58

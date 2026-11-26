@@ -1,0 +1,18 @@
+{
+  "input_sha256": {
+    "mlperf_inference_v6_1_summary.csv": "87980a2dfba85139ca806b63634305bcbc4ad6803bf2d520351e022ba905065a",
+    "hgx_on_demand_price_snapshot.csv": "885805a2b154c5ccc2d4ed329be2b554e3cd935ba0b960c664756ce71894a9ed"
+  },
+  "mlperf_source_rows": 492,
+  "matching_gpu_submitter_topology_availability_rows": 20,
+  "passing_comparability_filters_rows": 18,
+  "paired_comparisons": 8,
+  "paired_comparisons_by_submitter": {
+    "CoreWeave": 4,
+    "Nebius": 4
+  },
+  "unmatched_model_scenario_keys": 2,
+  "price_snapshot_rows": 4,
+  "paired_system_side_has_power_rows": 0,
+  "separate_nvidia_rubin_preview_comparisons": 3
+}

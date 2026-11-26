@@ -1,0 +1,33 @@
+{
+  "inputs": {
+    "ai_chip_sales_timelines_by_chip.csv": "d1ef7989767ec515e3afc439ef6baffd1c733ce6de2004cf04ba30f984b05c03",
+    "ai_chip_sales_chip_types.csv": "13b723a564c9866d6f4d14665994226401b819a98cb2f0e3003ea9e9d5e480ba"
+  },
+  "timeline_rows": 176,
+  "spec_rows": 33,
+  "duplicate_timeline_keys": 0,
+  "duplicate_spec_keys_after_strip": 0,
+  "calendar_mismatch_rows": 0,
+  "join_unmatched_rows": 0,
+  "nvidia_join_unmatched": 0,
+  "exclusion_counts": {
+    "outside_nvidia_sample": 112,
+    "included": 55,
+    "source_incomplete": 9
+  },
+  "nvidia_price_counts_by_sku": {
+    "A100": 1,
+    "A800": 1,
+    "B200": 1,
+    "B300": 1,
+    "H100": 1,
+    "H20": 1,
+    "H800": 1,
+    "R200": 1
+  },
+  "max_h100e_rebuild_delta": 0.9954522486004862,
+  "quarters": 19,
+  "nvidia_included_hopper_link_counts": {
+    "H100": 16
+  }
+}
