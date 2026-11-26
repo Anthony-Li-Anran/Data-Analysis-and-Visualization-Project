@@ -1,0 +1,7 @@
+# 陈永翾｜方向 3 分析复现依赖（Python 3.x）
+# 代码为 Jupyter Notebook 单元（含 %matplotlib inline），需在 notebook 环境运行
+# 中文字体 SimHei 为系统字体，请自行安装，非 pip 包
+
+pandas
+numpy
+matplotlib
