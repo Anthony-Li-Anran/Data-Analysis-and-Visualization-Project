@@ -1,0 +1,20 @@
+{
+  "cutoff": "2026-10-21",
+  "n_sites": 95,
+  "n_operational": 74,
+  "n_not_operational": 21,
+  "actual_h100e_total": 14752152.04937675,
+  "planned_h100e_total": 67155797.10822827,
+  "pending_h100e_total": 52403645.05885152,
+  "realization_rate": 0.21967056731680493,
+  "actual_power_mw_total": 18229.808329599997,
+  "planned_power_mw_total": 18229.808329599997,
+  "lag_median_months": 25.821287779237842,
+  "lag_p10_months": 7.148488830486203,
+  "lag_p90_months": 44.02759526938239,
+  "lag_max_months": 64.84888304862024,
+  "nonoperational_span_median": 11.925098554533507,
+  "median_realization": 0.5718390804597703,
+  "actual_add_2024_2026": 14574049.954732988,
+  "committed_add_2027_2030": 48003027.1502369
+}

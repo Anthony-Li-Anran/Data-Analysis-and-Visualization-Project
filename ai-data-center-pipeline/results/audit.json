@@ -1,0 +1,184 @@
+{
+  "generated_for": "AI 数据中心产能管线与实际兑现",
+  "cutoff": "2026-10-21",
+  "inputs": {
+    "data_center_timelines.csv": {
+      "md5": "9143dc59ea71eb3d349f2797088319c7",
+      "rows": 567
+    },
+    "data_centers.csv": {
+      "md5": "321de7609d0df355fcc455747c19c5aa",
+      "rows": 95
+    }
+  },
+  "state_classification_review": {
+    "reviewed": 21,
+    "coarse_agree": 21,
+    "fine_agree": 9,
+    "coarse_accuracy_pct": 100.0,
+    "fine_accuracy_pct": 42.9,
+    "misclassified": [
+      {
+        "site": "OpenAI Stargate Shackelford",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "Meta Hyperion",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "QTS Cedar Rapids",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "Google Fort Wayne",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "Goodnight",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "Google Cedar Rapids",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "QTS Eagle Mountain",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "Anthropic Barber Lake",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "Microsoft Narvik Norway",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "CoreWeave Lancaster Greenfield site",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "CoreWeave Muskogee OK",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      },
+      {
+        "site": "EcoDataCenter 2",
+        "auto_stage": "在建（土建阶段）",
+        "manual_stage": "在建（机电安装）"
+      }
+    ],
+    "note": "粗分类=在建/前期；细分类=土建阶段/机电安装。误判集中在把机电安装标成土建。"
+  },
+  "checks": [
+    {
+      "check": "行数 = 567",
+      "passed": true,
+      "detail": 567,
+      "expect": 567
+    },
+    {
+      "check": "站点数 = 95",
+      "passed": true,
+      "detail": 95,
+      "expect": 95
+    },
+    {
+      "check": "两表站点集合一致",
+      "passed": true,
+      "detail": {
+        "only_timelines": [],
+        "only_snapshot": []
+      },
+      "expect": "双向差集为空"
+    },
+    {
+      "check": "无重复(站点,日期)",
+      "passed": true,
+      "detail": 0,
+      "expect": 0
+    },
+    {
+      "check": "实测行 = 469",
+      "passed": true,
+      "detail": 469,
+      "expect": 469
+    },
+    {
+      "check": "预测行 = 98",
+      "passed": true,
+      "detail": 98,
+      "expect": 98
+    },
+    {
+      "check": "actual <= planned 全站成立",
+      "passed": true,
+      "detail": [],
+      "expect": "无越界站点"
+    },
+    {
+      "check": "快照值 = 最大实测值",
+      "passed": true,
+      "detail": {
+        "equal": 95,
+        "total": 95
+      },
+      "expect": "95/95 相等"
+    },
+    {
+      "check": "实测行 H100e 缺失行数（已知 3 行，聚合时按 NaN 处理）",
+      "passed": true,
+      "detail": {
+        "rows": 3,
+        "sites": [
+          "Colossus 1",
+          "Microsoft-Nebius New Jersey",
+          "QTS Cedar Rapids"
+        ],
+        "dates": [
+          "2025-03-06",
+          "2024-05-31",
+          "2026-04-16"
+        ]
+      },
+      "expect": "3 行缺失，已知且不影响站点级 max"
+    },
+    {
+      "check": "Power >= IT power 的行占比 > 60%",
+      "passed": true,
+      "detail": 1.0,
+      "expect": "> 0.6"
+    },
+    {
+      "check": "Power/IT 比值在 1.0-1.6 之间（PUE 合理区间）",
+      "passed": true,
+      "detail": {
+        "median": 1.299,
+        "share_in_range": 0.9944
+      },
+      "expect": "中位约 1.30"
+    },
+    {
+      "check": "水耗字段缺失率 > 80%（不可用，仅记录）",
+      "passed": true,
+      "detail": 0.8377,
+      "expect": "> 0.8"
+    }
+  ],
+  "summary": {
+    "passed": 12,
+    "failed": 0,
+    "failed_names": []
+  }
+}

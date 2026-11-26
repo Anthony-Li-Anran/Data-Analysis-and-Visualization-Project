@@ -1,0 +1,4 @@
+﻿caliber,actual,planned,unit,rate_pct,multiplier,density_per_it_mw_actual,density_per_it_mw_planned,density_per_total_mw_actual,density_per_total_mw_planned
+H100e,14.752,67.156,M H100e,21.97,4.552,1038.6,1758.1,809.2,1344.2
+IT 功率,14.203,38.199,GW,37.18,2.689,,,,
+总功率,18.23,49.961,GW,36.49,2.741,,,,
